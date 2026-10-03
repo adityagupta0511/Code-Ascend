@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>CodeAscend</title>
+  <!-- CodeAscend browser tab logo -->
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23151416'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-family='Arial,sans-serif' font-size='29' font-weight='700' fill='%2348bce6'%3E%26lt;/%26gt;%3C/text%3E%3C/svg%3E" />
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+  />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  />
+
+</head>
+
+<body>
+
+  <!-- ================= NAVBAR ================= -->
+
+  <header class="navbar">
+
+    <a href="#home" class="logo">
+
+      <div class="logo-icon">
+        <span class="logo-left">&lt;</span>
+        <span class="logo-slash">/</span>
+        <span class="logo-right">&gt;</span>
+      </div>
+
+      <span class="logo-text">
+        Code<span>Ascend</span>
+      </span>
+
+    </a>
+
+
+    <nav class="nav-links">
+
+      <a href="#home" class="nav-link active">
+        <i class="fa-solid fa-house"></i>
+        Home
+      </a>
+
+      <a href="#problems" class="nav-link">
+        <i class="fa-solid fa-table-cells-large"></i>
+        Problems
+      </a>
+
+      <a href="#problems" class="nav-link">
+        <i class="fa-solid fa-book-open"></i>
+        Topics
+      </a>
+
+      <a href="#progress-section" class="nav-link">
+        <i class="fa-solid fa-chart-column"></i>
+        Progress
+      </a>
+
+      <a href="#stats-section" class="nav-link">
+        <i class="fa-solid fa-chart-simple"></i>
+        Stats
+      </a>
+
+      <a href="#about" class="nav-link">
+        <i class="fa-solid fa-circle-info"></i>
+        About
+      </a>
+
+    </nav>
+
+
+    <div class="nav-actions">
+
+      <a
+        href="#progress-section"
+        class="track-btn"
+      >
+        <i class="fa-solid fa-chart-line"></i>
+        Track Progress
+      </a>
+
+    </div>
+
+    <button
+      class="mobile-menu-btn"
+      id="mobileMenuBtn"
+      aria-label="Toggle navigation menu"
+      aria-expanded="false"
+    >
+      <i class="fa-solid fa-bars"></i>
+    </button>
+
+  </header>
+
+
+  <!-- ================= HERO ================= -->
+
+  <main>
+
+    <section class="hero container" id="home">
+
+      <div class="hero-left">
+
+        <div class="hero-badge">
+          <i class="fa-solid fa-rocket"></i>
+          LEVEL UP YOUR CODING JOURNEY
+        </div>
+
+
+        <h1 class="hero-title">
+
+          Master
+          <span class="gold-text">DSA.</span>
+
+          <br />
+
+          Crack
+          <span class="cyan-text">Interviews.</span>
+
+        </h1>
+
+
+        <p class="hero-description">
+
+          A curated collection of Data Structures & Algorithms problems
+          to help you practice, improve, and achieve your coding goals.
+
+        </p>
+
+
+        <div class="hero-features">
+
+          <div>
+            <i class="fa-solid fa-magnifying-glass"></i>
+            Search & Filter
+          </div>
+
+          <div>
+            <i class="fa-solid fa-bullseye"></i>
+            Track Progress
+          </div>
+
+          <div>
+            <i class="fa-solid fa-bolt"></i>
+            Stay Consistent
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <!-- DEVELOPER PORTRAIT -->
+      <div class="hero-right">
+        <div class="developer-portrait">
+          <img
+            src="assets/images/programmer.png"
+            alt="Professional software engineer working at a laptop"
+          />
+        </div>
+      </div>
+
+    </section>
+
+
+    <!-- ================= STATS ================= -->
+
+    <section class="stats container" id="stats-section">
+
+      <div class="stat-card cyan-card">
+
+        <div class="stat-icon">
+          <i class="fa-solid fa-table-cells-large"></i>
+        </div>
+
+        <div>
+          <h2 id="totalProblems">0</h2>
+          <p>Total Problems</p>
+          <span>Across all topics</span>
+        </div>
+
+      </div>
+
+
+      <div class="stat-card green-card">
+
+        <div class="stat-icon">
+          <i class="fa-solid fa-circle-check"></i>
+        </div>
+
+        <div>
+          <h2 id="solvedCount">0</h2>
+          <p>Solved</p>
+          <span>Keep it up!</span>
+        </div>
+
+      </div>
+
+
+      <div class="stat-card gold-card">
+
+        <div class="stat-icon">
+          <i class="fa-solid fa-chart-line"></i>
+        </div>
+
+        <div>
+          <h2 id="progressPercent">0%</h2>
+          <p>Progress</p>
+          <span>Keep going!</span>
+        </div>
+
+      </div>
+
+
+      <div class="stat-card purple-card">
+
+        <div class="stat-icon">
+          <i class="fa-solid fa-book-open"></i>
+        </div>
+
+        <div>
+          <h2 id="topicCount">0</h2>
+          <p>Topics</p>
+          <span>Well organized</span>
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================= PROGRESS ================= -->
+
+    <section class="progress-section container" id="progress-section">
+
+      <div class="progress-top">
+
+        <span>Overall Progress</span>
+
+        <span id="progressText">
+          0 / 0 solved
+        </span>
+
+      </div>
+
+
+      <div class="progress-bar">
+
+        <div
+          class="progress-fill"
+          id="progressFill"
+          style="width: 0%"
+        ></div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================= PROBLEMS ================= -->
+
+    <section class="problems-section container" id="problems">
+
+
+      <div class="problem-header">
+
+        <div class="problem-heading">
+
+          <i class="fa-solid fa-list-check"></i>
+
+          <div>
+            <h2>All Problems</h2>
+            <p id="showingText">
+              Showing 0 of 0 problems
+            </p>
+          </div>
+
+        </div>
+
+
+        <div class="filters">
+
+          <div class="search-box">
+
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="Search problems..."
+            />
+
+          </div>
+
+
+          <select id="topicFilter">
+
+            <option value="all">
+              All Topics
+            </option>
+
+          </select>
+
+
+          <select id="difficultyFilter">
+
+            <option value="all">
+              All Difficulties
+            </option>
+
+            <option value="Easy">
+              Easy
+            </option>
+
+            <option value="Medium">
+              Medium
+            </option>
+
+            <option value="Hard">
+              Hard
+            </option>
+
+          </select>
+
+
+          <select id="statusFilter">
+
+            <option value="all">
+              All Status
+            </option>
+
+            <option value="solved">
+              Solved
+            </option>
+
+            <option value="unsolved">
+              Unsolved
+            </option>
+
+          </select>
+
+        </div>
+
+      </div>
+
+
+      <!-- Problems dynamically generated -->
+
+      <div id="problemsContainer"></div>
+
+
+      <div class="empty-state hidden" id="emptyState">
+
+        <i class="fa-solid fa-magnifying-glass"></i>
+
+        <h3>No problems found</h3>
+
+        <p>Try changing your search or filters.</p>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================= ABOUT ================= -->
+
+    <section class="about-section container" id="about">
+
+      <div class="section-heading">
+
+        <span class="section-tag">
+          <i class="fa-solid fa-circle-info"></i>
+          ABOUT CODEASCEND
+        </span>
+
+        <h2>
+          Built for the journey from
+          <span>learning</span> to
+          <span>mastery.</span>
+        </h2>
+
+        <p>
+          CodeAscend is your structured space for mastering Data Structures
+          and Algorithms — one problem, one topic, and one milestone at a time.
+        </p>
+
+      </div>
+
+
+      <div class="about-grid">
+
+        <!-- Card 1 -->
+
+        <div class="about-feature-card">
+
+          <div class="about-feature-icon cyan-icon">
+            <i class="fa-solid fa-layer-group"></i>
+          </div>
+
+          <h3>Structured Learning</h3>
+
+          <p>
+            Explore DSA problems organized by topics and difficulty levels,
+            so you always know what to practice next.
+          </p>
+
+        </div>
+
+
+        <!-- Card 2 -->
+
+        <div class="about-feature-card">
+
+          <div class="about-feature-icon gold-icon">
+            <i class="fa-solid fa-chart-line"></i>
+          </div>
+
+          <h3>Track Your Growth</h3>
+
+          <p>
+            Mark problems as solved and watch your progress grow as you
+            move closer to your coding goals.
+          </p>
+
+        </div>
+
+
+        <!-- Card 3 -->
+
+        <div class="about-feature-card">
+
+          <div class="about-feature-icon green-icon">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h3>Stay Consistent</h3>
+
+          <p>
+            Build momentum through daily practice and turn small improvements
+            into long-term coding confidence.
+          </p>
+
+        </div>
+
+      </div>
+
+
+      <div class="about-quote">
+
+        <div class="quote-code">
+
+          <span>&lt;</span>
+
+          <strong>Practice</strong>
+
+          <i class="fa-solid fa-plus"></i>
+
+          <strong>Consistency</strong>
+
+          <span>/&gt;</span>
+
+        </div>
+
+        <p>
+          Every solved problem is one step closer to becoming a better developer.
+        </p>
+
+      </div>
+
+    </section>
+
+
+  <!-- ================= FOOTER ================= -->
+
+  <footer class="site-footer">
+
+    <div class="container footer-container">
+
+
+      <!-- TOP -->
+
+      <div class="footer-top">
+
+        <a href="#home" class="footer-logo">
+
+          <div class="footer-logo-icon">
+            <span>&lt;</span>
+            <span>/</span>
+            <span>&gt;</span>
+          </div>
+
+          <span class="footer-logo-text">
+            Code<span>Ascend</span>
+          </span>
+
+        </a>
+
+
+        <p class="footer-description">
+          Practice smarter. Track your progress.
+          Keep solving and keep ascending.
+        </p>
+
+
+        <div class="footer-socials">
+
+          <a href="#home" title="Home">
+            <i class="fa-solid fa-house"></i>
+          </a>
+
+          <a href="#problems" title="Problems">
+            <i class="fa-solid fa-code"></i>
+          </a>
+
+          <a href="#progress-section" title="Progress">
+            <i class="fa-solid fa-chart-line"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <!-- DIVIDER -->
+
+      <div class="footer-divider"></div>
+
+
+      <!-- BOTTOM -->
+
+      <div class="footer-bottom">
+
+        <p>
+          © <span id="currentYear"></span>
+          <strong>CodeAscend</strong>
+          <span class="footer-dot">•</span>
+          Practice. Progress. Ascend.
+        </p>
+
+
+        <div class="footer-status">
+
+          <span class="status-dot"></span>
+
+          <span>
+            <strong id="footerSolved">0</strong>
+            problems solved
+          </span>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
