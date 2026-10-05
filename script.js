@@ -148,20 +148,36 @@ function getFilteredProblems() {
 
     const problemTopic = (problem.topic || "").toLowerCase();
 
+    /* ================================================
+         SEARCH
+         ================================================ */
+
     const matchesSearch =
       !searchValue ||
       problemName.includes(searchValue) ||
       problemTopic.includes(searchValue);
+
+    /* ================================================
+         TOPIC FILTER
+         ================================================ */
 
     const matchesTopic =
       selectedTopic === "all" ||
       selectedTopic === "All" ||
       problem.topic === selectedTopic;
 
+    /* ================================================
+         DIFFICULTY FILTER
+         ================================================ */
+
     const matchesDifficulty =
       selectedDifficulty === "all" ||
       selectedDifficulty === "All" ||
       problem.difficulty === selectedDifficulty;
+
+    /* ================================================
+         SOLVED STATUS
+         ================================================ */
 
     const isSolved = solvedProblems.includes(problem.id);
 
@@ -192,9 +208,17 @@ function renderProblems() {
 
   problemsContainer.innerHTML = "";
 
+  /* =======================================================
+     SHOWING TEXT
+     ======================================================= */
+
   if (showingText) {
     showingText.textContent = `Showing ${filteredProblems.length} of ${problems.length} problems`;
   }
+
+  /* =======================================================
+     EMPTY STATE
+     ======================================================= */
 
   if (filteredProblems.length === 0) {
     if (emptyState) {
@@ -208,27 +232,23 @@ function renderProblems() {
     emptyState.classList.add("hidden");
   }
 
-  /* =====================================================
+  /* =======================================================
      GROUP PROBLEMS BY TOPIC
-     ===================================================== */
+     ======================================================= */
 
   const groupedProblems = {};
 
   filteredProblems.forEach((problem) => {
     if (!groupedProblems[problem.topic]) {
-      groupedProblems[problem.topic] = {};
+      groupedProblems[problem.topic] = [];
     }
 
-    if (!groupedProblems[problem.topic][problem.difficulty]) {
-      groupedProblems[problem.topic][problem.difficulty] = [];
-    }
-
-    groupedProblems[problem.topic][problem.difficulty].push(problem);
+    groupedProblems[problem.topic].push(problem);
   });
 
-  /* =====================================================
+  /* =======================================================
      TOPIC ORDER
-     ===================================================== */
+     ======================================================= */
 
   const allTopics = getTopics();
 
@@ -239,68 +259,137 @@ function renderProblems() {
 
     topicBlock.className = "topic-block";
 
+    /* =====================================================
+       TOTAL TOPIC PROBLEMS
+       ===================================================== */
+
     const totalTopicProblems = problems.filter(
       (problem) => problem.topic === topic,
     ).length;
 
+    /* =====================================================
+       TOPIC HEADER
+       ===================================================== */
+
     topicBlock.innerHTML = `
-        <div class="topic-header">
 
-          <div class="topic-title">
-            <span class="topic-number">${topicIndex}</span>
-            <span class="topic-name">${topic}</span>
-          </div>
+      <div class="topic-header">
 
-          <span class="topic-count">
-            ${totalTopicProblems} problems
+        <div class="topic-title">
+
+          <span class="topic-number">
+            ${topicIndex}
+          </span>
+
+          <span class="topic-name">
+            ${topic}
           </span>
 
         </div>
-      `;
 
-    /* =================================================
-         DIFFICULTIES
-         ================================================= */
+        <span class="topic-count">
+          ${totalTopicProblems} problems
+        </span>
+
+      </div>
+
+    `;
+
+    /* =====================================================
+       DIFFICULTIES
+
+       IMPORTANT:
+       Easy → Medium → Hard sections will REMAIN.
+
+       But numbering will be generated separately
+       in display order so that it stays continuous.
+       ===================================================== */
 
     const difficulties = ["Easy", "Medium", "Hard"];
 
+    /* =====================================================
+       CONTINUOUS NUMBER
+
+       This is the MAIN FIX.
+
+       Instead of showing:
+
+       Easy:
+       1...10
+       24...29
+       50
+
+       Medium:
+       11...22
+       30...46
+       51...53
+
+       We display:
+
+       Easy:
+       1...13
+
+       Medium:
+       14...49
+
+       Hard:
+       50...53
+
+       ===================================================== */
+
+    let displayNumber = 1;
+
     difficulties.forEach((difficulty) => {
-      const topicProblems = groupedProblems[topic][difficulty];
+      const topicProblems = groupedProblems[topic]
+        .filter((problem) => problem.difficulty === difficulty)
+        .sort((a, b) => Number(a.number) - Number(b.number));
+
+      /* =================================================
+           NO PROBLEMS
+           ================================================= */
 
       if (!topicProblems || topicProblems.length === 0) {
         return;
       }
 
+      /* =================================================
+           DIFFICULTY GROUP
+           ================================================= */
+
       const difficultyGroup = document.createElement("div");
 
       difficultyGroup.className = "difficulty-group";
 
+      /* =================================================
+           DIFFICULTY HEADING
+           ================================================= */
+
       difficultyGroup.innerHTML = `
 
-            <div
+          <div
+            class="
+              difficulty-heading
+              ${difficulty.toLowerCase()}
+            "
+          >
+
+            <span
               class="
-                difficulty-heading
-                ${difficulty.toLowerCase()}
+                legend-dot
+                ${difficulty.toLowerCase()}-dot
               "
-            >
+            ></span>
 
-              <span
-                class="
-                  legend-dot
-                  ${difficulty.toLowerCase()}-dot
-                "
-              ></span>
+            ${difficulty}
+            (${topicProblems.length})
 
-              ${difficulty}
-              (${topicProblems.length})
+          </div>
 
-            </div>
+        `;
 
-          `;
-
-      /* =============================================
-             RENDER EACH PROBLEM
-             ============================================= */
+      /* =================================================
+           RENDER EACH PROBLEM
+           ================================================= */
 
       topicProblems.forEach((problem) => {
         const isSolved = solvedProblems.includes(problem.id);
@@ -313,12 +402,27 @@ function renderProblems() {
 
         const problemLink = problem.link || problem.url || "#";
 
-        const problemNumber = problem.number || problem.id;
+        /* ==========================================
+               IMPORTANT FIX
+
+               DO NOT use:
+
+               problem.number
+
+               for display.
+
+               We use our own continuous
+               displayNumber.
+               ========================================== */
+
+        const currentNumber = displayNumber;
+
+        displayNumber++;
 
         row.innerHTML = `
 
               <div class="problem-index">
-                ${problemNumber}
+                ${currentNumber}
               </div>
 
 
@@ -346,6 +450,7 @@ function renderProblems() {
                 aria-label="Mark ${escapeAttribute(problemName)} as solved"
 
                 ${isSolved ? "checked" : ""}
+
               />
 
             `;
@@ -353,8 +458,16 @@ function renderProblems() {
         difficultyGroup.appendChild(row);
       });
 
+      /* =================================================
+           ADD DIFFICULTY GROUP
+           ================================================= */
+
       topicBlock.appendChild(difficultyGroup);
     });
+
+    /* =====================================================
+       ADD TOPIC BLOCK
+       ===================================================== */
 
     problemsContainer.appendChild(topicBlock);
   });
@@ -371,15 +484,30 @@ document.addEventListener("change", function (event) {
 
   const problemId = Number(event.target.dataset.id);
 
+  /* =====================================================
+       SOLVED
+       ===================================================== */
+
   if (event.target.checked) {
     if (!solvedProblems.includes(problemId)) {
       solvedProblems.push(problemId);
     }
   } else {
+    /* =====================================================
+       UNSOLVED
+       ===================================================== */
     solvedProblems = solvedProblems.filter((id) => id !== problemId);
   }
 
+  /* =====================================================
+       SAVE
+       ===================================================== */
+
   localStorage.setItem("solvedProblems", JSON.stringify(solvedProblems));
+
+  /* =====================================================
+       UPDATE
+       ===================================================== */
 
   updateStats();
 
@@ -427,7 +555,7 @@ navLinks.forEach((link) => {
 });
 
 /* =========================================================
-   UPDATE ACTIVE NAVIGATION ON HASH CHANGE
+   UPDATE ACTIVE NAVIGATION
    ========================================================= */
 
 function updateActiveNav() {
@@ -501,7 +629,6 @@ document.addEventListener("DOMContentLoaded", () => {
   updateActiveNav();
 });
 
-
 /* =========================================================
    MOBILE MENU
    ========================================================= */
@@ -511,55 +638,53 @@ const mobileMenuBtn = document.getElementById("mobileMenuBtn");
 const mobileNav = document.querySelector(".nav-links");
 
 if (mobileMenuBtn && mobileNav) {
+  /* =====================================================
+     OPEN / CLOSE MOBILE MENU
+     ===================================================== */
 
   mobileMenuBtn.addEventListener("click", () => {
-
     mobileNav.classList.toggle("mobile-active");
 
     const isOpen = mobileNav.classList.contains("mobile-active");
 
-    mobileMenuBtn.setAttribute(
-      "aria-expanded",
-      isOpen
-    );
+    mobileMenuBtn.setAttribute("aria-expanded", isOpen);
 
     const icon = mobileMenuBtn.querySelector("i");
 
-    if (isOpen) {
-
-      icon.classList.remove("fa-bars");
-      icon.classList.add("fa-xmark");
-
-    } else {
-
-      icon.classList.remove("fa-xmark");
-      icon.classList.add("fa-bars");
-
+    if (!icon) {
+      return;
     }
 
+    if (isOpen) {
+      icon.classList.remove("fa-bars");
+
+      icon.classList.add("fa-xmark");
+    } else {
+      icon.classList.remove("fa-xmark");
+
+      icon.classList.add("fa-bars");
+    }
   });
 
-
-  /* CLOSE MENU AFTER CLICKING A NAV LINK */
+  /* =====================================================
+     CLOSE MENU AFTER NAV CLICK
+     ===================================================== */
 
   mobileNav.querySelectorAll(".nav-link").forEach((link) => {
-
     link.addEventListener("click", () => {
-
       mobileNav.classList.remove("mobile-active");
 
-      mobileMenuBtn.setAttribute(
-        "aria-expanded",
-        "false"
-      );
+      mobileMenuBtn.setAttribute("aria-expanded", "false");
 
       const icon = mobileMenuBtn.querySelector("i");
 
+      if (!icon) {
+        return;
+      }
+
       icon.classList.remove("fa-xmark");
+
       icon.classList.add("fa-bars");
-
     });
-
   });
-
 }
