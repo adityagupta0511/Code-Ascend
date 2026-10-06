@@ -966,55 +966,28 @@ const problems = [
   },
 
   {
-    id: 146,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 2,
-    title: "Sort Array By Parity",
-    url: "https://leetcode.com/problems/sort-array-by-parity/",
-  },
-
-  {
     id: 74,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 3,
+    number: 2,
     title: "Remove duplicates from sorted array",
     url: "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-  },
-
-  {
-    id: 81,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 4,
-    title: "Merge Strings Alternately",
-    url: "https://leetcode.com/problems/merge-strings-alternately/",
   },
 
   {
     id: 77,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 5,
+    number: 3,
     title: "Valid Palindrome",
     url: "https://leetcode.com/problems/valid-palindrome",
-  },
-
-  {
-    id: 80,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 6,
-    title: "Valid Palindrome II",
-    url: "https://leetcode.com/problems/valid-palindrome-ii/",
   },
 
   {
     id: 76,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 7,
+    number: 4,
     title: "Squares of a sorted array",
     url: "https://leetcode.com/problems/squares-of-a-sorted-array",
   },
@@ -1023,43 +996,16 @@ const problems = [
     id: 82,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 8,
+    number: 5,
     title: "Two Sum II – Input Array Is Sorted",
     url: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-  },
-
-  {
-    id: 78,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 9,
-    title: "Two sum-pairs with 0 Sum",
-    url: "https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
-  },
-
-  {
-    id: 79,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 10,
-    title: "Pair With Difference",
-    url: "https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1",
-  },
-
-  {
-    id: 41,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 11,
-    title: "Merge Sorted Array",
-    url: "https://leetcode.com/problems/merge-sorted-array/",
   },
 
   {
     id: 98,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 12,
+    number: 6,
     title: "Maximum Average Subarray I",
     url: "https://leetcode.com/problems/maximum-average-subarray-i/description/",
   },
@@ -1068,161 +1014,69 @@ const problems = [
     id: 99,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 13,
+    number: 7,
     title: "Maximum number of vowels in a substring in given length",
     url: "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/",
-  },
-
-  {
-    id: 100,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 14,
-    title: "Substrings of Size Three with Distinct Characters",
-    url: "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/",
   },
 
   {
     id: 101,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
-    number: 15,
+    number: 8,
     title: "Smallest subarray with sum greater than X",
     url: "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
   },
-
-  {
-    id: 102,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Easy",
-    number: 16,
-    title: "Contains Duplicate II",
-    url: "https://leetcode.com/problems/contains-duplicate-ii/",
-  },
-
   {
     id: 83,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 17,
+    number: 9,
     title: "Sort an array of 0s, 1s and 2s",
     url: "https://leetcode.com/problems/sort-colors",
-  },
-
-  {
-    id: 86,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 18,
-    title: "Merge without extra space",
-    url: "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
-  },
-
-  {
-    id: 89,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 19,
-    title: "Move Negative in the beginning & Positive in the end",
-    url: "https://www.geeksforgeeks.org/dsa/move-negative-numbers-beginning-positive-end-constant-extra-space/",
-  },
-
-  {
-    id: 93,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 20,
-    title: "Alternate Positive Negative",
-    url: "https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
   },
 
   {
     id: 87,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 21,
+    number: 10,
     title: "Container with Most Water",
     url: "https://leetcode.com/problems/container-with-most-water/description",
-  },
-
-  {
-    id: 92,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 22,
-    title: "Boats to Save People",
-    url: "https://leetcode.com/problems/boats-to-save-people/description/",
-  },
-
-  {
-    id: 553,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 23,
-    title: "Bag of Tokens",
-    url: "https://leetcode.com/problems/bag-of-tokens/",
   },
 
   {
     id: 84,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 24,
+    number: 11,
     title: "3-Sum Problem",
     url: "https://leetcode.com/problems/3sum",
   },
 
   {
-    id: 88,
+    id: 92,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 25,
-    title: "Triplets with Smaller Sum",
-    url: "https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
-  },
-
-  {
-    id: 91,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 26,
-    title: "3Sum Closet",
-    url: "https://leetcode.com/problems/3sum-closest",
-  },
-
-  {
-    id: 85,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 27,
-    title: "4-Sum Problem",
-    url: "https://leetcode.com/problems/4sum",
+    number: 12,
+    title: "Boats to Save People",
+    url: "https://leetcode.com/problems/boats-to-save-people/description/",
   },
 
   {
     id: 96,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 28,
+    number: 13,
     title: "Minimum Difference Between Highest and Lowest of K Scores",
     url: "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
-  },
-
-  {
-    id: 561,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 29,
-    title:
-      "Choose K Array Elements Such That Difference Between Max and Min Is Minimized",
-    url: "https://www.geeksforgeeks.org/",
   },
 
   {
     id: 117,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 30,
+    number: 14,
     title: "Minimum Size Subarray Sum",
     url: "https://leetcode.com/problems/minimum-size-subarray-sum/",
   },
@@ -1231,43 +1085,25 @@ const problems = [
     id: 105,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 31,
+    number: 15,
     title: "Longest Substring without Repeating Characters",
     url: "https://leetcode.com/problems/longest-substring-without-repeating-characters",
   },
 
   {
-    id: 119,
+    id: 106,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 32,
-    title: "Longest Substring with At Most Two Distinct Characters",
-    url: "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/",
-  },
-
-  {
-    id: 118,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 33,
-    title: "Longest Substring with At Most K Distinct Characters",
-    url: "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
-  },
-
-  {
-    id: 116,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 34,
-    title: "Fruit Into Baskets",
-    url: "https://leetcode.com/problems/fruit-into-baskets/",
+    number: 16,
+    title: "Max consecutive Ones III",
+    url: "https://leetcode.com/problems/max-consecutive-ones-iii",
   },
 
   {
     id: 107,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 35,
+    number: 17,
     title: "Longest Repeating Character Replacements",
     url: "https://leetcode.com/problems/longest-repeating-character-replacement",
   },
@@ -1276,7 +1112,7 @@ const problems = [
     id: 114,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 36,
+    number: 18,
     title: "Permutation in String",
     url: "https://leetcode.com/problems/permutation-in-string/description/",
   },
@@ -1285,70 +1121,52 @@ const problems = [
     id: 115,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 37,
+    number: 19,
     title: "Find All Anagrams in a String",
     url: "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+  },
+
+  {
+    id: 116,
+    topic: "TwoPointer & SlidingWindow",
+    difficulty: "Medium",
+    number: 20,
+    title: "Fruit Into Baskets",
+    url: "https://leetcode.com/problems/fruit-into-baskets/",
+  },
+
+  {
+    id: 118,
+    topic: "TwoPointer & SlidingWindow",
+    difficulty: "Medium",
+    number: 21,
+    title: "Longest Substring with At Most K Distinct Characters",
+    url: "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+  },
+
+  {
+    id: 119,
+    topic: "TwoPointer & SlidingWindow",
+    difficulty: "Medium",
+    number: 22,
+    title: "Longest Substring with At Most Two Distinct Characters",
+    url: "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/",
   },
 
   {
     id: 108,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 38,
+    number: 23,
     title: "Number of Substrings Containing all 3 characters",
     url: "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters",
-  },
-
-  {
-    id: 104,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 39,
-    title: "Maximum Points you can obtain from cards",
-    url: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
-  },
-
-  {
-    id: 106,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 40,
-    title: "Max consecutive Ones III",
-    url: "https://leetcode.com/problems/max-consecutive-ones-iii",
-  },
-
-  {
-    id: 109,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 41,
-    title: "Frequency of the most Frequent element",
-    url: "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
-  },
-
-  {
-    id: 113,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 42,
-    title: "Minimum Swaps to Group Elements ≤ K",
-    url: "https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1",
-  },
-
-  {
-    id: 404,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 43,
-    title: "First Negative Integer in Every Window of Size K",
-    url: "https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1",
   },
 
   {
     id: 110,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 44,
+    number: 24,
     title: "Count number of Nice Subarrays",
     url: "https://leetcode.com/problems/count-number-of-nice-subarrays",
   },
@@ -1357,61 +1175,51 @@ const problems = [
     id: 111,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 45,
+    number: 25,
     title: "Binary Subarrays with Sum",
     url: "https://leetcode.com/problems/binary-subarrays-with-sum",
-  },
-
-  {
-    id: 112,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Medium",
-    number: 46,
-    title: "Subarrays with K Different Integers",
-    url: "https://leetcode.com/problems/subarrays-with-k-different-integers",
   },
 
   {
     id: 120,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
-    number: 47,
+    number: 26,
     title: "Minimum Operations to Reduce X to Zero",
     url: "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
   },
-
   {
     id: 97,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
-    number: 48,
+    number: 27,
     title: "Trapping Rain water",
     url: "https://leetcode.com/problems/trapping-rain-water",
-  },
-
-  {
-    id: 122,
-    topic: "TwoPointer & SlidingWindow",
-    difficulty: "Hard",
-    number: 49,
-    title: "Sliding Window Maximum",
-    url: "https://leetcode.com/problems/sliding-window-maximum/",
   },
 
   {
     id: 121,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
-    number: 50,
+    number: 28,
     title: "Minimum Window Substring",
     url: "https://leetcode.com/problems/minimum-window-substring",
+  },
+
+  {
+    id: 122,
+    topic: "TwoPointer & SlidingWindow",
+    difficulty: "Hard",
+    number: 29,
+    title: "Sliding Window Maximum",
+    url: "https://leetcode.com/problems/sliding-window-maximum/",
   },
 
   {
     id: 123,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
-    number: 51,
+    number: 30,
     title: "Substring with Concatenation of All Words",
     url: "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
   },
