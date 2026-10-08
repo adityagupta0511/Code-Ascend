@@ -129,7 +129,7 @@ const problems = [
     url: "https://leetcode.com/problems/integer-to-english-words/",
   },
   {
-    id: 18,
+    id: 17,
     topic: "Mathematics",
     difficulty: "Hard",
     number: 17,
@@ -137,7 +137,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-digit-one",
   },
   {
-    id: 19,
+    id: 18,
     topic: "Mathematics",
     difficulty: "Hard",
     number: 18,
@@ -147,7 +147,7 @@ const problems = [
 
   // ==================== ARRAY ====================
   {
-    id: 20,
+    id: 19,
     topic: "Array",
     difficulty: "Easy",
     number: 1,
@@ -155,7 +155,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
   },
   {
-    id: 21,
+    id: 20,
     topic: "Array",
     difficulty: "Easy",
     number: 2,
@@ -163,7 +163,7 @@ const problems = [
     url: "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
   },
   {
-    id: 22,
+    id: 21,
     topic: "Array",
     difficulty: "Easy",
     number: 3,
@@ -171,7 +171,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
   },
   {
-    id: 23,
+    id: 22,
     topic: "Array",
     difficulty: "Easy",
     number: 4,
@@ -179,7 +179,7 @@ const problems = [
     url: "https://leetcode.com/problems/running-sum-of-1d-array",
   },
   {
-    id: 24,
+    id: 23,
     topic: "Array",
     difficulty: "Easy",
     number: 5,
@@ -187,7 +187,7 @@ const problems = [
     url: "https://leetcode.com/problems/concatenation-of-array",
   },
   {
-    id: 25,
+    id: 24,
     topic: "Array",
     difficulty: "Easy",
     number: 6,
@@ -195,7 +195,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-element",
   },
   {
-    id: 26,
+    id: 25,
     topic: "Array",
     difficulty: "Easy",
     number: 7,
@@ -203,7 +203,7 @@ const problems = [
     url: "https://leetcode.com/problems/contains-duplicate",
   },
   {
-    id: 27,
+    id: 26,
     topic: "Array",
     difficulty: "Easy",
     number: 8,
@@ -211,7 +211,7 @@ const problems = [
     url: "https://leetcode.com/problems/missing-number",
   },
   {
-    id: 28,
+    id: 27,
     topic: "Array",
     difficulty: "Easy",
     number: 9,
@@ -219,7 +219,7 @@ const problems = [
     url: "https://leetcode.com/problems/majority-element",
   },
   {
-    id: 29,
+    id: 28,
     topic: "Array",
     difficulty: "Easy",
     number: 10,
@@ -227,7 +227,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-pivot-index",
   },
   {
-    id: 30,
+    id: 29,
     topic: "Array",
     difficulty: "Easy",
     number: 11,
@@ -235,7 +235,7 @@ const problems = [
     url: "https://leetcode.com/problems/plus-one",
   },
   {
-    id: 31,
+    id: 30,
     topic: "Array",
     difficulty: "Easy",
     number: 12,
@@ -243,7 +243,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
   },
   {
-    id: 32,
+    id: 31,
     topic: "Array",
     difficulty: "Easy",
     number: 13,
@@ -251,7 +251,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
   },
   {
-    id: 33,
+    id: 32,
     topic: "Array",
     difficulty: "Easy",
     number: 14,
@@ -259,7 +259,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/count-element-occurences/1",
   },
   {
-    id: 34,
+    id: 33,
     topic: "Array",
     difficulty: "Easy",
     number: 15,
@@ -267,7 +267,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
   },
   {
-    id: 35,
+    id: 34,
     topic: "Array",
     difficulty: "Easy",
     number: 16,
@@ -275,7 +275,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1",
   },
   {
-    id: 36,
+    id: 35,
     topic: "Array",
     difficulty: "Easy",
     number: 17,
@@ -283,7 +283,7 @@ const problems = [
     url: "https://leetcode.com/problems/two-sum",
   },
   {
-    id: 37,
+    id: 36,
     topic: "Array",
     difficulty: "Easy",
     number: 18,
@@ -291,7 +291,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/",
   },
   {
-    id: 38,
+    id: 37,
     topic: "Array",
     difficulty: "Easy",
     number: 19,
@@ -299,7 +299,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1",
   },
   {
-    id: 39,
+    id: 38,
     topic: "Array",
     difficulty: "Easy",
     number: 20,
@@ -307,7 +307,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1",
   },
   {
-    id: 42,
+    id: 39,
     topic: "Array",
     difficulty: "Easy",
     number: 21,
@@ -315,7 +315,7 @@ const problems = [
     url: "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
   },
   {
-    id: 43,
+    id: 40,
     topic: "Array",
     difficulty: "Medium",
     number: 22,
@@ -323,7 +323,7 @@ const problems = [
     url: "https://leetcode.com/problems/rotate-array",
   },
   {
-    id: 44,
+    id: 41,
     topic: "Array",
     difficulty: "Medium",
     number: 23,
@@ -331,7 +331,7 @@ const problems = [
     url: "https://leetcode.com/problems/rearrange-array-elements-by-sign",
   },
   {
-    id: 45,
+    id: 42,
     topic: "Array",
     difficulty: "Medium",
     number: 24,
@@ -339,7 +339,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-product-subarray",
   },
   {
-    id: 46,
+    id: 43,
     topic: "Array",
     difficulty: "Medium",
     number: 25,
@@ -347,7 +347,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-subarray",
   },
   {
-    id: 47,
+    id: 44,
     topic: "Array",
     difficulty: "Medium",
     number: 26,
@@ -355,7 +355,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-consecutive-sequence",
   },
   {
-    id: 48,
+    id: 45,
     topic: "Array",
     difficulty: "Medium",
     number: 27,
@@ -363,7 +363,7 @@ const problems = [
     url: "https://leetcode.com/problems/subarray-sum-equals-k",
   },
   {
-    id: 49,
+    id: 46,
     topic: "Array",
     difficulty: "Medium",
     number: 28,
@@ -371,7 +371,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1",
   },
   {
-    id: 50,
+    id: 47,
     topic: "Array",
     difficulty: "Medium",
     number: 29,
@@ -379,7 +379,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-duplicate-number",
   },
   {
-    id: 51,
+    id: 48,
     topic: "Array",
     difficulty: "Medium",
     number: 30,
@@ -387,7 +387,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-all-duplicates-in-an-array",
   },
   {
-    id: 52,
+    id: 49,
     topic: "Array",
     difficulty: "Medium",
     number: 31,
@@ -395,7 +395,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1",
   },
   {
-    id: 53,
+    id: 50,
     topic: "Array",
     difficulty: "Medium",
     number: 32,
@@ -403,7 +403,7 @@ const problems = [
     url: "https://leetcode.com/problems/product-of-array-except-self",
   },
   {
-    id: 61,
+    id: 51,
     topic: "Array",
     difficulty: "Medium",
     number: 33,
@@ -411,7 +411,7 @@ const problems = [
     url: "https://leetcode.com/problems/subarray-sums-divisible-by-k/description/",
   },
   {
-    id: 62,
+    id: 52,
     topic: "Array",
     difficulty: "Medium",
     number: 34,
@@ -419,7 +419,7 @@ const problems = [
     url: "https://leetcode.com/problems/continuous-subarray-sum/description/",
   },
   {
-    id: 70,
+    id: 53,
     topic: "Array",
     difficulty: "Hard",
     number: 35,
@@ -427,7 +427,7 @@ const problems = [
     url: "https://leetcode.com/problems/first-missing-positive/description/",
   },
   {
-    id: 73,
+    id: 54,
     topic: "Array",
     difficulty: "Hard",
     number: 36,
@@ -435,7 +435,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/interesting-queries4742/1",
   },
   {
-    id: 90,
+    id: 55,
     topic: "Array",
     difficulty: "Medium",
     number: 37,
@@ -443,7 +443,7 @@ const problems = [
     url: "https://leetcode.com/problems/next-permutation",
   },
   {
-    id: 189,
+    id: 56,
     topic: "Array",
     difficulty: "Medium",
     number: 38,
@@ -453,7 +453,7 @@ const problems = [
 
   // ==================== 2D ARRAY ====================
   {
-    id: 125,
+    id: 57,
     topic: "2D Array",
     difficulty: "Easy",
     number: 1,
@@ -461,7 +461,7 @@ const problems = [
     url: "https://leetcode.com/problems/richest-customer-wealth/",
   },
   {
-    id: 126,
+    id: 58,
     topic: "2D Array",
     difficulty: "Easy",
     number: 2,
@@ -469,7 +469,7 @@ const problems = [
     url: "https://leetcode.com/problems/matrix-diagonal-sum/",
   },
   {
-    id: 127,
+    id: 59,
     topic: "2D Array",
     difficulty: "Easy",
     number: 3,
@@ -477,7 +477,7 @@ const problems = [
     url: "https://leetcode.com/problems/transpose-matrix/",
   },
   {
-    id: 128,
+    id: 60,
     topic: "2D Array",
     difficulty: "Easy",
     number: 4,
@@ -485,7 +485,7 @@ const problems = [
     url: "https://leetcode.com/problems/reshape-the-matrix/",
   },
   {
-    id: 129,
+    id: 61,
     topic: "2D Array",
     difficulty: "Easy",
     number: 5,
@@ -493,7 +493,7 @@ const problems = [
     url: "https://leetcode.com/problems/toeplitz-matrix/",
   },
   {
-    id: 130,
+    id: 62,
     topic: "2D Array",
     difficulty: "Easy",
     number: 6,
@@ -501,7 +501,7 @@ const problems = [
     url: "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
   },
   {
-    id: 131,
+    id: 63,
     topic: "2D Array",
     difficulty: "Medium",
     number: 7,
@@ -509,7 +509,7 @@ const problems = [
     url: "https://leetcode.com/problems/set-matrix-zeroes",
   },
   {
-    id: 132,
+    id: 64,
     topic: "2D Array",
     difficulty: "Medium",
     number: 8,
@@ -517,7 +517,7 @@ const problems = [
     url: "https://leetcode.com/problems/spiral-matrix",
   },
   {
-    id: 134,
+    id: 65,
     topic: "2D Array",
     difficulty: "Medium",
     number: 9,
@@ -525,7 +525,7 @@ const problems = [
     url: "https://leetcode.com/problems/rotate-image/",
   },
   {
-    id: 135,
+    id: 66,
     topic: "2D Array",
     difficulty: "Medium",
     number: 10,
@@ -533,7 +533,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-distinct-elements2054/1",
   },
   {
-    id: 137,
+    id: 67,
     topic: "2D Array",
     difficulty: "Medium",
     number: 11,
@@ -541,7 +541,7 @@ const problems = [
     url: "https://leetcode.com/problems/spiral-matrix-ii/",
   },
   {
-    id: 138,
+    id: 68,
     topic: "2D Array",
     difficulty: "Medium",
     number: 12,
@@ -549,7 +549,7 @@ const problems = [
     url: "https://leetcode.com/problems/diagonal-traverse/",
   },
   {
-    id: 139,
+    id: 69,
     topic: "2D Array",
     difficulty: "Medium",
     number: 13,
@@ -557,7 +557,7 @@ const problems = [
     url: "https://leetcode.com/problems/valid-sudoku/",
   },
   {
-    id: 140,
+    id: 70,
     topic: "2D Array",
     difficulty: "Medium",
     number: 14,
@@ -565,7 +565,7 @@ const problems = [
     url: "https://leetcode.com/problems/range-sum-query-2d-immutable/",
   },
   {
-    id: 141,
+    id: 71,
     topic: "2D Array",
     difficulty: "Medium",
     number: 15,
@@ -573,7 +573,7 @@ const problems = [
     url: "https://leetcode.com/problems/diagonal-traverse-ii/",
   },
   {
-    id: 143,
+    id: 72,
     topic: "2D Array",
     difficulty: "Hard",
     number: 16,
@@ -583,7 +583,7 @@ const problems = [
 
   // ==================== STRINGS ====================
   {
-    id: 197,
+    id: 73,
     topic: "Strings",
     difficulty: "Easy",
     number: 1,
@@ -591,7 +591,7 @@ const problems = [
     url: "https://leetcode.com/problems/valid-anagram",
   },
   {
-    id: 198,
+    id: 74,
     topic: "Strings",
     difficulty: "Easy",
     number: 2,
@@ -599,7 +599,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-common-prefix",
   },
   {
-    id: 199,
+    id: 75,
     topic: "Strings",
     difficulty: "Easy",
     number: 3,
@@ -607,7 +607,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-string",
   },
   {
-    id: 200,
+    id: 76,
     topic: "Strings",
     difficulty: "Easy",
     number: 4,
@@ -615,7 +615,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-outermost-parentheses",
   },
   {
-    id: 202,
+    id: 77,
     topic: "Strings",
     difficulty: "Easy",
     number: 5,
@@ -623,7 +623,7 @@ const problems = [
     url: "https://leetcode.com/problems/isomorphic-strings",
   },
   {
-    id: 203,
+    id: 78,
     topic: "Strings",
     difficulty: "Easy",
     number: 6,
@@ -631,7 +631,7 @@ const problems = [
     url: "https://leetcode.com/problems/roman-to-integer",
   },
   {
-    id: 204,
+    id: 79,
     topic: "Strings",
     difficulty: "Easy",
     number: 7,
@@ -639,7 +639,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
   },
   {
-    id: 205,
+    id: 80,
     topic: "Strings",
     difficulty: "Easy",
     number: 8,
@@ -647,7 +647,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/palindrome-string0817/1",
   },
   {
-    id: 206,
+    id: 81,
     topic: "Strings",
     difficulty: "Easy",
     number: 9,
@@ -655,7 +655,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/1",
   },
   {
-    id: 207,
+    id: 82,
     topic: "Strings",
     difficulty: "Easy",
     number: 10,
@@ -663,7 +663,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1",
   },
   {
-    id: 208,
+    id: 83,
     topic: "Strings",
     difficulty: "Easy",
     number: 11,
@@ -671,7 +671,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1",
   },
   {
-    id: 209,
+    id: 84,
     topic: "Strings",
     difficulty: "Easy",
     number: 12,
@@ -679,7 +679,7 @@ const problems = [
     url: "https://leetcode.com/problems/first-unique-character-in-a-string/",
   },
   {
-    id: 211,
+    id: 85,
     topic: "Strings",
     difficulty: "Easy",
     number: 13,
@@ -687,7 +687,7 @@ const problems = [
     url: "https://leetcode.com/problems/add-strings/",
   },
   {
-    id: 212,
+    id: 86,
     topic: "Strings",
     difficulty: "Easy",
     number: 14,
@@ -696,7 +696,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1",
   },
   {
-    id: 213,
+    id: 87,
     topic: "Strings",
     difficulty: "Medium",
     number: 15,
@@ -704,7 +704,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-words-in-a-string",
   },
   {
-    id: 215,
+    id: 88,
     topic: "Strings",
     difficulty: "Medium",
     number: 16,
@@ -712,7 +712,7 @@ const problems = [
     url: "https://leetcode.com/problems/string-to-integer-atoi",
   },
   {
-    id: 216,
+    id: 89,
     topic: "Strings",
     difficulty: "Medium",
     number: 17,
@@ -720,7 +720,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1",
   },
   {
-    id: 218,
+    id: 90,
     topic: "Strings",
     difficulty: "Medium",
     number: 18,
@@ -728,7 +728,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1",
   },
   {
-    id: 219,
+    id: 91,
     topic: "Strings",
     difficulty: "Medium",
     number: 19,
@@ -736,7 +736,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-and-say",
   },
   {
-    id: 220,
+    id: 92,
     topic: "Strings",
     difficulty: "Medium",
     number: 20,
@@ -744,7 +744,7 @@ const problems = [
     url: "https://leetcode.com/problems/integer-to-roman",
   },
   {
-    id: 221,
+    id: 93,
     topic: "Strings",
     difficulty: "Medium",
     number: 21,
@@ -752,7 +752,7 @@ const problems = [
     url: "https://leetcode.com/problems/repeated-string-match",
   },
   {
-    id: 222,
+    id: 94,
     topic: "Strings",
     difficulty: "Medium",
     number: 22,
@@ -760,7 +760,7 @@ const problems = [
     url: "https://leetcode.com/problems/group-anagrams",
   },
   {
-    id: 223,
+    id: 95,
     topic: "Strings",
     difficulty: "Medium",
     number: 23,
@@ -768,7 +768,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/transform-string5648/1",
   },
   {
-    id: 224,
+    id: 96,
     topic: "Strings",
     difficulty: "Medium",
     number: 24,
@@ -776,7 +776,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/search-pattern0205/1",
   },
   {
-    id: 225,
+    id: 97,
     topic: "Strings",
     difficulty: "Medium",
     number: 25,
@@ -784,7 +784,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
   },
   {
-    id: 226,
+    id: 98,
     topic: "Strings",
     difficulty: "Medium",
     number: 26,
@@ -792,7 +792,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-palindromic-substring/",
   },
   {
-    id: 227,
+    id: 99,
     topic: "Strings",
     difficulty: "Medium",
     number: 27,
@@ -800,7 +800,7 @@ const problems = [
     url: "https://leetcode.com/problems/compare-version-numbers/",
   },
   {
-    id: 228,
+    id: 100,
     topic: "Strings",
     difficulty: "Medium",
     number: 28,
@@ -808,7 +808,7 @@ const problems = [
     url: "https://leetcode.com/problems/multiply-strings",
   },
   {
-    id: 229,
+    id: 101,
     topic: "Strings",
     difficulty: "Medium",
     number: 29,
@@ -816,7 +816,7 @@ const problems = [
     url: "https://leetcode.com/problems/rotate-string",
   },
   {
-    id: 230,
+    id: 102,
     topic: "Strings",
     difficulty: "Medium",
     number: 30,
@@ -824,7 +824,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/search-pattern0205/1",
   },
   {
-    id: 233,
+    id: 103,
     topic: "Strings",
     difficulty: "Medium",
     number: 31,
@@ -832,7 +832,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-happy-prefix/",
   },
   {
-    id: 235,
+    id: 104,
     topic: "Strings",
     difficulty: "Hard",
     number: 32,
@@ -840,7 +840,7 @@ const problems = [
     url: "https://leetcode.com/problems/text-justification/",
   },
   {
-    id: 236,
+    id: 105,
     topic: "Strings",
     difficulty: "Hard",
     number: 33,
@@ -850,7 +850,7 @@ const problems = [
 
   // ==================== SORTING ====================
   {
-    id: 144,
+    id: 106,
     topic: "Sorting",
     difficulty: "Easy",
     number: 1,
@@ -858,7 +858,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/counting-sort/1",
   },
   {
-    id: 145,
+    id: 107,
     topic: "Sorting",
     difficulty: "Easy",
     number: 2,
@@ -866,7 +866,7 @@ const problems = [
     url: "https://leetcode.com/problems/height-checker/",
   },
   {
-    id: 147,
+    id: 108,
     topic: "Sorting",
     difficulty: "Easy",
     number: 3,
@@ -874,7 +874,7 @@ const problems = [
     url: "https://leetcode.com/problems/relative-sort-array/",
   },
   {
-    id: 149,
+    id: 109,
     topic: "Sorting",
     difficulty: "Easy",
     number: 4,
@@ -882,7 +882,7 @@ const problems = [
     url: "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
   },
   {
-    id: 150,
+    id: 110,
     topic: "Sorting",
     difficulty: "Medium",
     number: 5,
@@ -890,7 +890,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/radix-sort/1",
   },
   {
-    id: 151,
+    id: 111,
     topic: "Sorting",
     difficulty: "Medium",
     number: 6,
@@ -898,7 +898,7 @@ const problems = [
     url: "https://leetcode.com/problems/merge-intervals",
   },
   {
-    id: 152,
+    id: 112,
     topic: "Sorting",
     difficulty: "Medium",
     number: 7,
@@ -906,7 +906,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
   },
   {
-    id: 153,
+    id: 113,
     topic: "Sorting",
     difficulty: "Medium",
     number: 8,
@@ -914,7 +914,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-swaps/1",
   },
   {
-    id: 154,
+    id: 114,
     topic: "Sorting",
     difficulty: "Medium",
     number: 9,
@@ -922,7 +922,7 @@ const problems = [
     url: "https://leetcode.com/problems/sort-an-array/",
   },
   {
-    id: 155,
+    id: 115,
     topic: "Sorting",
     difficulty: "Medium",
     number: 10,
@@ -930,7 +930,7 @@ const problems = [
     url: "https://leetcode.com/problems/largest-number/",
   },
   {
-    id: 156,
+    id: 116,
     topic: "Sorting",
     difficulty: "Medium",
     number: 11,
@@ -938,7 +938,7 @@ const problems = [
     url: "https://leetcode.com/problems/rank-transform-of-an-array/",
   },
   {
-    id: 157,
+    id: 117,
     topic: "Sorting",
     difficulty: "Hard",
     number: 12,
@@ -946,7 +946,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-pairs",
   },
   {
-    id: 158,
+    id: 118,
     topic: "Sorting",
     difficulty: "Hard",
     number: 13,
@@ -957,7 +957,7 @@ const problems = [
   // ==================== TWOPOINTER & SLIDINGWINDOW ====================
 
   {
-    id: 40,
+    id: 119,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 1,
@@ -966,7 +966,7 @@ const problems = [
   },
 
   {
-    id: 74,
+    id: 120,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 2,
@@ -975,7 +975,7 @@ const problems = [
   },
 
   {
-    id: 77,
+    id: 121,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 3,
@@ -984,7 +984,7 @@ const problems = [
   },
 
   {
-    id: 76,
+    id: 122,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 4,
@@ -993,7 +993,7 @@ const problems = [
   },
 
   {
-    id: 82,
+    id: 123,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 5,
@@ -1002,7 +1002,7 @@ const problems = [
   },
 
   {
-    id: 98,
+    id: 124,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 6,
@@ -1011,7 +1011,7 @@ const problems = [
   },
 
   {
-    id: 99,
+    id: 125,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 7,
@@ -1020,7 +1020,7 @@ const problems = [
   },
 
   {
-    id: 101,
+    id: 126,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Easy",
     number: 8,
@@ -1028,7 +1028,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
   },
   {
-    id: 83,
+    id: 127,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 9,
@@ -1037,7 +1037,7 @@ const problems = [
   },
 
   {
-    id: 87,
+    id: 128,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 10,
@@ -1046,7 +1046,7 @@ const problems = [
   },
 
   {
-    id: 84,
+    id: 129,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 11,
@@ -1055,7 +1055,7 @@ const problems = [
   },
 
   {
-    id: 92,
+    id: 130,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 12,
@@ -1064,7 +1064,7 @@ const problems = [
   },
 
   {
-    id: 96,
+    id: 131,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 13,
@@ -1073,7 +1073,7 @@ const problems = [
   },
 
   {
-    id: 117,
+    id: 132,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 14,
@@ -1082,7 +1082,7 @@ const problems = [
   },
 
   {
-    id: 105,
+    id: 133,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 15,
@@ -1091,7 +1091,7 @@ const problems = [
   },
 
   {
-    id: 106,
+    id: 134,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 16,
@@ -1100,7 +1100,7 @@ const problems = [
   },
 
   {
-    id: 107,
+    id: 135,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 17,
@@ -1109,7 +1109,7 @@ const problems = [
   },
 
   {
-    id: 114,
+    id: 136,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 18,
@@ -1118,7 +1118,7 @@ const problems = [
   },
 
   {
-    id: 115,
+    id: 137,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 19,
@@ -1127,7 +1127,7 @@ const problems = [
   },
 
   {
-    id: 116,
+    id: 138,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 20,
@@ -1136,7 +1136,7 @@ const problems = [
   },
 
   {
-    id: 118,
+    id: 139,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 21,
@@ -1145,7 +1145,7 @@ const problems = [
   },
 
   {
-    id: 119,
+    id: 140,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 22,
@@ -1154,7 +1154,7 @@ const problems = [
   },
 
   {
-    id: 108,
+    id: 141,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 23,
@@ -1163,7 +1163,7 @@ const problems = [
   },
 
   {
-    id: 110,
+    id: 142,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 24,
@@ -1172,7 +1172,7 @@ const problems = [
   },
 
   {
-    id: 111,
+    id: 143,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 25,
@@ -1181,7 +1181,7 @@ const problems = [
   },
 
   {
-    id: 120,
+    id: 144,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Medium",
     number: 26,
@@ -1189,7 +1189,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
   },
   {
-    id: 97,
+    id: 145,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
     number: 27,
@@ -1198,7 +1198,7 @@ const problems = [
   },
 
   {
-    id: 121,
+    id: 146,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
     number: 28,
@@ -1207,7 +1207,7 @@ const problems = [
   },
 
   {
-    id: 122,
+    id: 147,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
     number: 29,
@@ -1216,7 +1216,7 @@ const problems = [
   },
 
   {
-    id: 123,
+    id: 148,
     topic: "TwoPointer & SlidingWindow",
     difficulty: "Hard",
     number: 30,
@@ -1226,7 +1226,7 @@ const problems = [
 
   // ==================== BINARY SEARCH ====================
   {
-    id: 159,
+    id: 149,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 1,
@@ -1235,7 +1235,7 @@ const problems = [
   },
 
   {
-    id: 160,
+    id: 150,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 2,
@@ -1244,7 +1244,7 @@ const problems = [
   },
 
   {
-    id: 161,
+    id: 151,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 3,
@@ -1253,7 +1253,7 @@ const problems = [
   },
 
   {
-    id: 162,
+    id: 152,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 4,
@@ -1262,7 +1262,7 @@ const problems = [
   },
 
   {
-    id: 163,
+    id: 153,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 5,
@@ -1271,7 +1271,7 @@ const problems = [
   },
 
   {
-    id: 164,
+    id: 154,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 6,
@@ -1280,7 +1280,7 @@ const problems = [
   },
 
   {
-    id: 165,
+    id: 155,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 7,
@@ -1289,7 +1289,7 @@ const problems = [
   },
 
   {
-    id: 166,
+    id: 156,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 8,
@@ -1298,7 +1298,7 @@ const problems = [
   },
 
   {
-    id: 167,
+    id: 157,
     topic: "Binary Search",
     difficulty: "Easy",
     number: 9,
@@ -1306,7 +1306,7 @@ const problems = [
     url: "https://leetcode.com/problems/arranging-coins/",
   },
   {
-    id: 168,
+    id: 158,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 10,
@@ -1315,7 +1315,7 @@ const problems = [
   },
 
   {
-    id: 169,
+    id: 159,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 11,
@@ -1324,7 +1324,7 @@ const problems = [
   },
 
   {
-    id: 170,
+    id: 160,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 12,
@@ -1333,7 +1333,7 @@ const problems = [
   },
 
   {
-    id: 171,
+    id: 161,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 13,
@@ -1342,7 +1342,7 @@ const problems = [
   },
 
   {
-    id: 172,
+    id: 162,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 14,
@@ -1351,7 +1351,7 @@ const problems = [
   },
 
   {
-    id: 173,
+    id: 163,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 15,
@@ -1360,7 +1360,7 @@ const problems = [
   },
 
   {
-    id: 174,
+    id: 164,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 16,
@@ -1369,7 +1369,7 @@ const problems = [
   },
 
   {
-    id: 175,
+    id: 165,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 17,
@@ -1378,7 +1378,7 @@ const problems = [
   },
 
   {
-    id: 176,
+    id: 166,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 18,
@@ -1387,7 +1387,7 @@ const problems = [
   },
 
   {
-    id: 177,
+    id: 167,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 19,
@@ -1396,7 +1396,7 @@ const problems = [
   },
 
   {
-    id: 178,
+    id: 168,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 20,
@@ -1405,7 +1405,7 @@ const problems = [
   },
 
   {
-    id: 179,
+    id: 169,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 21,
@@ -1414,7 +1414,7 @@ const problems = [
   },
 
   {
-    id: 180,
+    id: 170,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 22,
@@ -1423,7 +1423,7 @@ const problems = [
   },
 
   {
-    id: 181,
+    id: 171,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 23,
@@ -1432,7 +1432,7 @@ const problems = [
   },
 
   {
-    id: 182,
+    id: 172,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 24,
@@ -1441,7 +1441,7 @@ const problems = [
   },
 
   {
-    id: 183,
+    id: 173,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 25,
@@ -1450,7 +1450,7 @@ const problems = [
   },
 
   {
-    id: 184,
+    id: 174,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 26,
@@ -1459,7 +1459,7 @@ const problems = [
   },
 
   {
-    id: 185,
+    id: 175,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 27,
@@ -1468,7 +1468,7 @@ const problems = [
   },
 
   {
-    id: 186,
+    id: 176,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 28,
@@ -1477,7 +1477,7 @@ const problems = [
   },
 
   {
-    id: 187,
+    id: 177,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 29,
@@ -1486,7 +1486,7 @@ const problems = [
   },
 
   {
-    id: 188,
+    id: 178,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 30,
@@ -1495,7 +1495,7 @@ const problems = [
   },
 
   {
-    id: 189,
+    id: 179,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 31,
@@ -1504,7 +1504,7 @@ const problems = [
   },
 
   {
-    id: 190,
+    id: 180,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 32,
@@ -1513,7 +1513,7 @@ const problems = [
   },
 
   {
-    id: 191,
+    id: 181,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 33,
@@ -1521,7 +1521,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
   },
   {
-    id: 192,
+    id: 182,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 34,
@@ -1530,7 +1530,7 @@ const problems = [
   },
 
   {
-    id: 193,
+    id: 183,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 35,
@@ -1539,7 +1539,7 @@ const problems = [
   },
 
   {
-    id: 194,
+    id: 184,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 36,
@@ -1548,7 +1548,7 @@ const problems = [
   },
 
   {
-    id: 195,
+    id: 185,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 37,
@@ -1557,7 +1557,7 @@ const problems = [
   },
 
   {
-    id: 196,
+    id: 186,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 38,
@@ -1566,7 +1566,7 @@ const problems = [
   },
 
   {
-    id: 197,
+    id: 187,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 39,
@@ -1575,7 +1575,7 @@ const problems = [
   },
 
   {
-    id: 198,
+    id: 188,
     topic: "Binary Search",
     difficulty: "Hard",
     number: 40,
@@ -1585,7 +1585,7 @@ const problems = [
 
   // ==================== RECURSION & BACKTRACKING ====================
   {
-    id: 238,
+    id: 189,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 1,
@@ -1593,7 +1593,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-case-permutation/",
   },
   {
-    id: 239,
+    id: 190,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 2,
@@ -1601,7 +1601,7 @@ const problems = [
     url: "https://leetcode.com/problems/powx-n",
   },
   {
-    id: 240,
+    id: 191,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 3,
@@ -1609,7 +1609,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-good-numbers",
   },
   {
-    id: 241,
+    id: 192,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 4,
@@ -1617,7 +1617,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/power-set4302/1",
   },
   {
-    id: 242,
+    id: 193,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 5,
@@ -1625,7 +1625,7 @@ const problems = [
     url: "https://leetcode.com/problems/subsets",
   },
   {
-    id: 243,
+    id: 194,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 6,
@@ -1633,7 +1633,7 @@ const problems = [
     url: "https://leetcode.com/problems/subsets-ii",
   },
   {
-    id: 244,
+    id: 195,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 7,
@@ -1641,7 +1641,7 @@ const problems = [
     url: "https://leetcode.com/problems/permutations/",
   },
   {
-    id: 245,
+    id: 196,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 8,
@@ -1649,7 +1649,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1",
   },
   {
-    id: 246,
+    id: 197,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 9,
@@ -1657,7 +1657,7 @@ const problems = [
     url: "https://leetcode.com/problems/permutations-ii/",
   },
   {
-    id: 247,
+    id: 198,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 10,
@@ -1665,7 +1665,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum",
   },
   {
-    id: 248,
+    id: 199,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 11,
@@ -1673,7 +1673,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum-ii",
   },
   {
-    id: 249,
+    id: 200,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 12,
@@ -1681,7 +1681,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum-iii",
   },
   {
-    id: 250,
+    id: 201,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 13,
@@ -1689,7 +1689,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
   },
   {
-    id: 251,
+    id: 202,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 14,
@@ -1697,7 +1697,7 @@ const problems = [
     url: "https://leetcode.com/problems/generate-parentheses",
   },
   {
-    id: 252,
+    id: 203,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 15,
@@ -1705,7 +1705,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindrome-partitioning",
   },
   {
-    id: 253,
+    id: 204,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 16,
@@ -1713,7 +1713,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/generate-ip-addresses/1",
   },
   {
-    id: 254,
+    id: 205,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 17,
@@ -1721,7 +1721,7 @@ const problems = [
     url: "https://leetcode.com/problems/restore-ip-addresses/description/",
   },
   {
-    id: 255,
+    id: 206,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 18,
@@ -1729,7 +1729,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-search/",
   },
   {
-    id: 256,
+    id: 207,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 19,
@@ -1737,7 +1737,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1",
   },
   {
-    id: 257,
+    id: 208,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 20,
@@ -1745,7 +1745,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
   },
   {
-    id: 258,
+    id: 209,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 21,
@@ -1753,7 +1753,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-shortest-safe-route-in-a-matrix/1",
   },
   {
-    id: 259,
+    id: 210,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 22,
@@ -1761,7 +1761,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1",
   },
   {
-    id: 260,
+    id: 211,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 23,
@@ -1769,7 +1769,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
   },
   {
-    id: 261,
+    id: 212,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 24,
@@ -1777,7 +1777,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1",
   },
   {
-    id: 262,
+    id: 213,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 25,
@@ -1785,7 +1785,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1",
   },
   {
-    id: 263,
+    id: 214,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 26,
@@ -1793,7 +1793,7 @@ const problems = [
     url: "https://leetcode.com/problems/combinations/",
   },
   {
-    id: 264,
+    id: 215,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 27,
@@ -1801,7 +1801,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
   },
   {
-    id: 265,
+    id: 216,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 28,
@@ -1809,7 +1809,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-tile-possibilities/",
   },
   {
-    id: 266,
+    id: 217,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 29,
@@ -1817,7 +1817,7 @@ const problems = [
     url: "https://leetcode.com/problems/beautiful-arrangement/",
   },
   {
-    id: 267,
+    id: 218,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 30,
@@ -1825,7 +1825,7 @@ const problems = [
     url: "https://leetcode.com/problems/additive-number/",
   },
   {
-    id: 268,
+    id: 219,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 31,
@@ -1833,7 +1833,7 @@ const problems = [
     url: "https://leetcode.com/problems/n-queens",
   },
   {
-    id: 269,
+    id: 220,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 32,
@@ -1841,7 +1841,7 @@ const problems = [
     url: "https://leetcode.com/problems/sudoku-solver",
   },
   {
-    id: 270,
+    id: 221,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 33,
@@ -1849,7 +1849,7 @@ const problems = [
     url: "https://leetcode.com/problems/expression-add-operators",
   },
   {
-    id: 271,
+    id: 222,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 34,
@@ -1857,7 +1857,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/word-break-part-23249/1",
   },
   {
-    id: 272,
+    id: 223,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 35,
@@ -1865,7 +1865,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-invalid-parentheses",
   },
   {
-    id: 273,
+    id: 224,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 36,
@@ -1873,7 +1873,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
   },
   {
-    id: 274,
+    id: 225,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 37,
@@ -1881,7 +1881,7 @@ const problems = [
     url: "https://leetcode.com/problems/n-queens-ii/",
   },
   {
-    id: 275,
+    id: 226,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 38,
@@ -1889,7 +1889,7 @@ const problems = [
     url: "https://leetcode.com/problems/matchsticks-to-square/",
   },
   {
-    id: 755,
+    id: 227,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 39,
@@ -1899,7 +1899,7 @@ const problems = [
 
   // ==================== LINKED LIST ====================
   {
-    id: 276,
+    id: 228,
     topic: "Linked List",
     difficulty: "Easy",
     number: 1,
@@ -1907,7 +1907,7 @@ const problems = [
     url: "https://leetcode.com/problems/delete-node-in-a-linked-list/",
   },
   {
-    id: 277,
+    id: 229,
     topic: "Linked List",
     difficulty: "Easy",
     number: 2,
@@ -1915,7 +1915,7 @@ const problems = [
     url: "https://leetcode.com/problems/middle-of-the-linked-list/",
   },
   {
-    id: 278,
+    id: 230,
     topic: "Linked List",
     difficulty: "Easy",
     number: 3,
@@ -1923,7 +1923,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-linked-list/",
   },
   {
-    id: 279,
+    id: 231,
     topic: "Linked List",
     difficulty: "Easy",
     number: 4,
@@ -1931,7 +1931,7 @@ const problems = [
     url: "https://leetcode.com/problems/linked-list-cycle/",
   },
   {
-    id: 280,
+    id: 232,
     topic: "Linked List",
     difficulty: "Easy",
     number: 5,
@@ -1939,7 +1939,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
   },
   {
-    id: 281,
+    id: 233,
     topic: "Linked List",
     difficulty: "Easy",
     number: 6,
@@ -1947,7 +1947,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-linked-list-elements/",
   },
   {
-    id: 282,
+    id: 234,
     topic: "Linked List",
     difficulty: "Easy",
     number: 7,
@@ -1955,7 +1955,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1",
   },
   {
-    id: 283,
+    id: 235,
     topic: "Linked List",
     difficulty: "Easy",
     number: 8,
@@ -1963,7 +1963,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
   },
   {
-    id: 284,
+    id: 236,
     topic: "Linked List",
     difficulty: "Easy",
     number: 9,
@@ -1971,7 +1971,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/circular-linked-list/1",
   },
   {
-    id: 285,
+    id: 237,
     topic: "Linked List",
     difficulty: "Easy",
     number: 10,
@@ -1979,7 +1979,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1",
   },
   {
-    id: 286,
+    id: 238,
     topic: "Linked List",
     difficulty: "Medium",
     number: 11,
@@ -1987,7 +1987,7 @@ const problems = [
     url: "https://leetcode.com/problems/linked-list-cycle-ii/",
   },
   {
-    id: 287,
+    id: 239,
     topic: "Linked List",
     difficulty: "Medium",
     number: 12,
@@ -1995,7 +1995,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindrome-linked-list/",
   },
   {
-    id: 288,
+    id: 240,
     topic: "Linked List",
     difficulty: "Medium",
     number: 13,
@@ -2003,7 +2003,7 @@ const problems = [
     url: "https://leetcode.com/problems/odd-even-linked-list/",
   },
   {
-    id: 289,
+    id: 241,
     topic: "Linked List",
     difficulty: "Medium",
     number: 14,
@@ -2011,7 +2011,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
   },
   {
-    id: 290,
+    id: 242,
     topic: "Linked List",
     difficulty: "Medium",
     number: 15,
@@ -2019,7 +2019,7 @@ const problems = [
     url: "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
   },
   {
-    id: 291,
+    id: 243,
     topic: "Linked List",
     difficulty: "Medium",
     number: 16,
@@ -2027,7 +2027,7 @@ const problems = [
     url: "https://leetcode.com/problems/intersection-of-two-linked-lists/",
   },
   {
-    id: 292,
+    id: 244,
     topic: "Linked List",
     difficulty: "Medium",
     number: 17,
@@ -2035,7 +2035,7 @@ const problems = [
     url: "https://leetcode.com/problems/add-two-numbers/",
   },
   {
-    id: 293,
+    id: 245,
     topic: "Linked List",
     difficulty: "Medium",
     number: 18,
@@ -2043,7 +2043,7 @@ const problems = [
     url: "https://leetcode.com/problems/rotate-list/",
   },
   {
-    id: 294,
+    id: 246,
     topic: "Linked List",
     difficulty: "Medium",
     number: 19,
@@ -2051,7 +2051,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-linked-list-ii/",
   },
   {
-    id: 295,
+    id: 247,
     topic: "Linked List",
     difficulty: "Medium",
     number: 20,
@@ -2059,7 +2059,7 @@ const problems = [
     url: "https://leetcode.com/problems/swap-nodes-in-pairs/",
   },
   {
-    id: 296,
+    id: 248,
     topic: "Linked List",
     difficulty: "Medium",
     number: 21,
@@ -2067,7 +2067,7 @@ const problems = [
     url: "https://leetcode.com/problems/merge-two-sorted-lists/",
   },
   {
-    id: 297,
+    id: 249,
     topic: "Linked List",
     difficulty: "Medium",
     number: 22,
@@ -2075,7 +2075,7 @@ const problems = [
     url: "https://leetcode.com/problems/partition-list/",
   },
   {
-    id: 298,
+    id: 250,
     topic: "Linked List",
     difficulty: "Medium",
     number: 23,
@@ -2083,7 +2083,7 @@ const problems = [
     url: "https://leetcode.com/problems/add-two-numbers-ii/",
   },
   {
-    id: 299,
+    id: 251,
     topic: "Linked List",
     difficulty: "Medium",
     number: 24,
@@ -2091,7 +2091,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1?utm_source=chatgpt.com",
   },
   {
-    id: 300,
+    id: 252,
     topic: "Linked List",
     difficulty: "Medium",
     number: 25,
@@ -2099,7 +2099,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
   },
   {
-    id: 301,
+    id: 253,
     topic: "Linked List",
     difficulty: "Medium",
     number: 26,
@@ -2107,7 +2107,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
   },
   {
-    id: 302,
+    id: 254,
     topic: "Linked List",
     difficulty: "Medium",
     number: 27,
@@ -2115,7 +2115,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
   },
   {
-    id: 303,
+    id: 255,
     topic: "Linked List",
     difficulty: "Medium",
     number: 28,
@@ -2123,7 +2123,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
   },
   {
-    id: 304,
+    id: 256,
     topic: "Linked List",
     difficulty: "Medium",
     number: 29,
@@ -2131,7 +2131,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
   },
   {
-    id: 305,
+    id: 257,
     topic: "Linked List",
     difficulty: "Medium",
     number: 30,
@@ -2139,7 +2139,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
   },
   {
-    id: 306,
+    id: 258,
     topic: "Linked List",
     difficulty: "Medium",
     number: 31,
@@ -2147,7 +2147,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
   },
   {
-    id: 307,
+    id: 259,
     topic: "Linked List",
     difficulty: "Medium",
     number: 32,
@@ -2155,7 +2155,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
   },
   {
-    id: 308,
+    id: 260,
     topic: "Linked List",
     difficulty: "Medium",
     number: 33,
@@ -2163,7 +2163,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
   },
   {
-    id: 309,
+    id: 261,
     topic: "Linked List",
     difficulty: "Medium",
     number: 34,
@@ -2171,7 +2171,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
   },
   {
-    id: 310,
+    id: 262,
     topic: "Linked List",
     difficulty: "Medium",
     number: 35,
@@ -2179,7 +2179,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1",
   },
   {
-    id: 311,
+    id: 263,
     topic: "Linked List",
     difficulty: "Medium",
     number: 36,
@@ -2187,7 +2187,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 312,
+    id: 264,
     topic: "Linked List",
     difficulty: "Medium",
     number: 37,
@@ -2195,7 +2195,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/linked-list-in-zig-zag-fashion/",
   },
   {
-    id: 313,
+    id: 265,
     topic: "Linked List",
     difficulty: "Medium",
     number: 38,
@@ -2203,7 +2203,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 314,
+    id: 266,
     topic: "Linked List",
     difficulty: "Medium",
     number: 39,
@@ -2211,7 +2211,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/rearrange-a-given-linked-list-in-place/",
   },
   {
-    id: 315,
+    id: 267,
     topic: "Linked List",
     difficulty: "Medium",
     number: 40,
@@ -2219,7 +2219,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/subtract-two-numbers-represented-as-linked-lists/",
   },
   {
-    id: 316,
+    id: 268,
     topic: "Linked List",
     difficulty: "Hard",
     number: 41,
@@ -2227,7 +2227,7 @@ const problems = [
     url: "https://leetcode.com/problems/sort-list/",
   },
   {
-    id: 317,
+    id: 269,
     topic: "Linked List",
     difficulty: "Hard",
     number: 42,
@@ -2235,7 +2235,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-nodes-in-k-group/",
   },
   {
-    id: 318,
+    id: 270,
     topic: "Linked List",
     difficulty: "Hard",
     number: 43,
@@ -2243,7 +2243,7 @@ const problems = [
     url: "https://leetcode.com/problems/copy-list-with-random-pointer/",
   },
   {
-    id: 319,
+    id: 271,
     topic: "Linked List",
     difficulty: "Hard",
     number: 44,
@@ -2251,7 +2251,7 @@ const problems = [
     url: "https://leetcode.com/problems/merge-k-sorted-lists/?utm_source=chatgpt.com",
   },
   {
-    id: 320,
+    id: 272,
     topic: "Linked List",
     difficulty: "Hard",
     number: 45,
@@ -2259,7 +2259,7 @@ const problems = [
     url: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
   },
   {
-    id: 321,
+    id: 273,
     topic: "Linked List",
     difficulty: "Hard",
     number: 46,
@@ -2267,7 +2267,7 @@ const problems = [
     url: "https://leetcode.com/problems/merge-k-sorted-lists/?utm_source=chatgpt.com",
   },
   {
-    id: 322,
+    id: 274,
     topic: "Linked List",
     difficulty: "Hard",
     number: 47,
@@ -2275,7 +2275,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
   },
   {
-    id: 323,
+    id: 275,
     topic: "Linked List",
     difficulty: "Hard",
     number: 48,
@@ -2283,7 +2283,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
   },
   {
-    id: 324,
+    id: 276,
     topic: "Linked List",
     difficulty: "Hard",
     number: 49,
@@ -2291,7 +2291,7 @@ const problems = [
     url: "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/?utm_source=chatgpt.com",
   },
   {
-    id: 326,
+    id: 277,
     topic: "Linked List",
     difficulty: "Hard",
     number: 50,
@@ -2299,7 +2299,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/sort-a-k-sorted-doubly-linked-list/1",
   },
   {
-    id: 327,
+    id: 278,
     topic: "Linked List",
     difficulty: "Hard",
     number: 51,
@@ -2307,7 +2307,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 328,
+    id: 279,
     topic: "Linked List",
     difficulty: "Hard",
     number: 52,
@@ -2317,7 +2317,7 @@ const problems = [
 
   // ==================== STACK & QUEUE ====================
   {
-    id: 17,
+    id: 280,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 1,
@@ -2325,7 +2325,7 @@ const problems = [
     url: "https://leetcode.com/problems/basic-calculator",
   },
   {
-    id: 142,
+    id: 281,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 2,
@@ -2333,7 +2333,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/max-rectangle/1",
   },
   {
-    id: 217,
+    id: 282,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 3,
@@ -2341,7 +2341,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-duplicate-letters/description/",
   },
   {
-    id: 234,
+    id: 283,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 4,
@@ -2349,7 +2349,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
   },
   {
-    id: 364,
+    id: 284,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 5,
@@ -2357,7 +2357,7 @@ const problems = [
     url: "https://leetcode.com/problems/valid-parentheses/?utm_source=chatgpt.com",
   },
   {
-    id: 365,
+    id: 285,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 6,
@@ -2365,7 +2365,7 @@ const problems = [
     url: "https://leetcode.com/problems/implement-stack-using-queues/?utm_source=chatgpt.com",
   },
   {
-    id: 366,
+    id: 286,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 7,
@@ -2373,7 +2373,7 @@ const problems = [
     url: "https://leetcode.com/problems/implement-queue-using-stacks/?utm_source=chatgpt.com",
   },
   {
-    id: 367,
+    id: 287,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 8,
@@ -2381,7 +2381,7 @@ const problems = [
     url: "https://leetcode.com/problems/min-stack/?utm_source=chatgpt.com",
   },
   {
-    id: 368,
+    id: 288,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 9,
@@ -2389,7 +2389,7 @@ const problems = [
     url: "https://leetcode.com/problems/baseball-game/?utm_source=chatgpt.com",
   },
   {
-    id: 369,
+    id: 289,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 10,
@@ -2397,7 +2397,7 @@ const problems = [
     url: "https://leetcode.com/problems/backspace-string-compare/?utm_source=chatgpt.com",
   },
   {
-    id: 370,
+    id: 290,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 11,
@@ -2405,7 +2405,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/?utm_source=chatgpt.com",
   },
   {
-    id: 371,
+    id: 291,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 12,
@@ -2413,7 +2413,7 @@ const problems = [
     url: "https://leetcode.com/problems/next-greater-element-i/?utm_source=chatgpt.com",
   },
   {
-    id: 372,
+    id: 292,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 13,
@@ -2421,7 +2421,7 @@ const problems = [
     url: "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/?utm_source=chatgpt.com",
   },
   {
-    id: 373,
+    id: 293,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 14,
@@ -2429,7 +2429,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?utm_source=chatgpt.com",
   },
   {
-    id: 374,
+    id: 294,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 15,
@@ -2437,7 +2437,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=chatgpt.com",
   },
   {
-    id: 375,
+    id: 295,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 16,
@@ -2445,7 +2445,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?utm_source=chatgpt.com",
   },
   {
-    id: 376,
+    id: 296,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 17,
@@ -2453,7 +2453,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1?utm_source=chatgpt.com",
   },
   {
-    id: 377,
+    id: 297,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 18,
@@ -2461,7 +2461,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1?utm_source=chatgpt.com",
   },
   {
-    id: 378,
+    id: 298,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 19,
@@ -2469,7 +2469,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 379,
+    id: 299,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 20,
@@ -2477,7 +2477,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 380,
+    id: 300,
     topic: "Stack & Queue",
     difficulty: "Easy",
     number: 21,
@@ -2485,7 +2485,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/sort-a-stack-using-recursion/",
   },
   {
-    id: 381,
+    id: 301,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 22,
@@ -2493,7 +2493,7 @@ const problems = [
     url: "https://leetcode.com/problems/evaluate-reverse-polish-notation/?utm_source=chatgpt.com",
   },
   {
-    id: 382,
+    id: 302,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 23,
@@ -2501,7 +2501,7 @@ const problems = [
     url: "https://leetcode.com/problems/decode-string/",
   },
   {
-    id: 383,
+    id: 303,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 24,
@@ -2509,7 +2509,7 @@ const problems = [
     url: "https://leetcode.com/problems/simplify-path/?utm_source=chatgpt.com",
   },
   {
-    id: 384,
+    id: 304,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 25,
@@ -2517,7 +2517,7 @@ const problems = [
     url: "https://leetcode.com/problems/asteroid-collision/?utm_source=chatgpt.com",
   },
   {
-    id: 385,
+    id: 305,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 26,
@@ -2525,7 +2525,7 @@ const problems = [
     url: "https://leetcode.com/problems/basic-calculator-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 386,
+    id: 306,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 27,
@@ -2533,7 +2533,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1?utm_source=chatgpt.com",
   },
   {
-    id: 387,
+    id: 307,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 28,
@@ -2541,7 +2541,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1?utm_source=chatgpt.com",
   },
   {
-    id: 388,
+    id: 308,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 29,
@@ -2549,7 +2549,7 @@ const problems = [
     url: "https://leetcode.com/problems/daily-temperatures/?utm_source=chatgpt.com",
   },
   {
-    id: 389,
+    id: 309,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 30,
@@ -2557,7 +2557,7 @@ const problems = [
     url: "https://leetcode.com/problems/next-greater-element-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 390,
+    id: 310,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 31,
@@ -2565,7 +2565,7 @@ const problems = [
     url: "https://leetcode.com/problems/online-stock-span/?utm_source=chatgpt.com",
   },
   {
-    id: 391,
+    id: 311,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 32,
@@ -2573,7 +2573,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/help-classmates--141631/1?utm_source=chatgpt.com",
   },
   {
-    id: 392,
+    id: 312,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 33,
@@ -2581,7 +2581,7 @@ const problems = [
     url: "https://leetcode.com/problems/car-fleet/",
   },
   {
-    id: 393,
+    id: 313,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 34,
@@ -2589,7 +2589,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-k-digits/?utm_source=chatgpt.com",
   },
   {
-    id: 395,
+    id: 314,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 35,
@@ -2597,7 +2597,7 @@ const problems = [
     url: "https://leetcode.com/problems/sum-of-subarray-minimums/?utm_source=chatgpt.com",
   },
   {
-    id: 396,
+    id: 315,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 36,
@@ -2605,7 +2605,7 @@ const problems = [
     url: "https://leetcode.com/problems/sum-of-subarray-ranges/?utm_source=chatgpt.com",
   },
   {
-    id: 397,
+    id: 316,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 37,
@@ -2613,7 +2613,7 @@ const problems = [
     url: "https://leetcode.com/problems/design-circular-queue/?utm_source=chatgpt.com",
   },
   {
-    id: 398,
+    id: 317,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 38,
@@ -2621,7 +2621,7 @@ const problems = [
     url: "https://leetcode.com/problems/design-circular-deque/?utm_source=chatgpt.com",
   },
   {
-    id: 399,
+    id: 318,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 39,
@@ -2629,7 +2629,7 @@ const problems = [
     url: "https://leetcode.com/problems/dota2-senate/?utm_source=chatgpt.com",
   },
   {
-    id: 400,
+    id: 319,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 40,
@@ -2637,7 +2637,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-recent-calls/?utm_source=chatgpt.com",
   },
   {
-    id: 401,
+    id: 320,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 41,
@@ -2645,7 +2645,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/queue-reversal/1?utm_source=chatgpt.com",
   },
   {
-    id: 402,
+    id: 321,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 42,
@@ -2653,7 +2653,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1?utm_source=chatgpt.com",
   },
   {
-    id: 403,
+    id: 322,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 43,
@@ -2661,7 +2661,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1?utm_source=chatgpt.com",
   },
   {
-    id: 405,
+    id: 323,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 44,
@@ -2669,7 +2669,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1?utm_source=chatgpt.com",
   },
   {
-    id: 407,
+    id: 324,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 45,
@@ -2677,7 +2677,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/design-a-stack-with-find-middle-operation/",
   },
   {
-    id: 409,
+    id: 325,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 46,
@@ -2685,7 +2685,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/",
   },
   {
-    id: 410,
+    id: 326,
     topic: "Stack & Queue",
     difficulty: "Medium",
     number: 47,
@@ -2693,7 +2693,7 @@ const problems = [
     url: "https://leetcode.com/problems/next-greater-element-iii/",
   },
   {
-    id: 411,
+    id: 327,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 48,
@@ -2701,7 +2701,7 @@ const problems = [
     url: "https://leetcode.com/problems/largest-rectangle-in-histogram/?utm_source=chatgpt.com",
   },
   {
-    id: 412,
+    id: 328,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 49,
@@ -2709,7 +2709,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/max-rectangle/1",
   },
   {
-    id: 413,
+    id: 329,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 50,
@@ -2717,7 +2717,7 @@ const problems = [
     url: "https://leetcode.com/problems/lru-cache/",
   },
   {
-    id: 414,
+    id: 330,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 51,
@@ -2725,7 +2725,7 @@ const problems = [
     url: "https://leetcode.com/problems/lfu-cache/",
   },
   {
-    id: 415,
+    id: 331,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 52,
@@ -2733,7 +2733,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-frequency-stack/",
   },
   {
-    id: 416,
+    id: 332,
     topic: "Stack & Queue",
     difficulty: "Hard",
     number: 53,
@@ -2743,7 +2743,7 @@ const problems = [
 
   // ==================== BIT MANIPULATION ====================
   {
-    id: 329,
+    id: 333,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 1,
@@ -2751,7 +2751,7 @@ const problems = [
     url: "https://leetcode.com/problems/single-numbe",
   },
   {
-    id: 330,
+    id: 334,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 2,
@@ -2759,7 +2759,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-1-bits/?utm_source=chatgpt.com",
   },
   {
-    id: 331,
+    id: 335,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 3,
@@ -2767,7 +2767,7 @@ const problems = [
     url: "https://leetcode.com/problems/counting-bits/?utm_source=chatgpt.com",
   },
   {
-    id: 332,
+    id: 336,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 4,
@@ -2775,7 +2775,7 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-bits/?utm_source=chatgpt.com",
   },
   {
-    id: 333,
+    id: 337,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 5,
@@ -2783,7 +2783,7 @@ const problems = [
     url: "https://leetcode.com/problems/power-of-two",
   },
   {
-    id: 334,
+    id: 338,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 6,
@@ -2791,7 +2791,7 @@ const problems = [
     url: "https://leetcode.com/problems/power-of-four/?utm_source=chatgpt.com",
   },
   {
-    id: 336,
+    id: 339,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 7,
@@ -2799,7 +2799,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-number-with-alternating-bits/?utm_source=chatgpt.com",
   },
   {
-    id: 337,
+    id: 340,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 8,
@@ -2807,7 +2807,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-watch/?utm_source=chatgpt.com",
   },
   {
-    id: 338,
+    id: 341,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 9,
@@ -2815,7 +2815,7 @@ const problems = [
     url: "https://leetcode.com/problems/hamming-distance/?utm_source=chatgpt.com",
   },
   {
-    id: 339,
+    id: 342,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 10,
@@ -2823,7 +2823,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-difference/?utm_source=chatgpt.com",
   },
   {
-    id: 340,
+    id: 343,
     topic: "Bit Manipulation",
     difficulty: "Easy",
     number: 11,
@@ -2831,7 +2831,7 @@ const problems = [
     url: "https://leetcode.com/problems/complement-of-base-10-integer/?utm_source=chatgpt.com",
   },
   {
-    id: 341,
+    id: 344,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 12,
@@ -2839,7 +2839,7 @@ const problems = [
     url: "https://leetcode.com/problems/single-number-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 342,
+    id: 345,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 13,
@@ -2847,7 +2847,7 @@ const problems = [
     url: "https://leetcode.com/problems/single-number-iii/?utm_source=chatgpt.com",
   },
   {
-    id: 343,
+    id: 346,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 14,
@@ -2855,7 +2855,7 @@ const problems = [
     url: "https://leetcode.com/problems/divide-two-integers/?utm_source=chatgpt.com",
   },
   {
-    id: 344,
+    id: 347,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 15,
@@ -2863,7 +2863,7 @@ const problems = [
     url: "https://leetcode.com/problems/bitwise-and-of-numbers-range/?utm_source=chatgpt.com",
   },
   {
-    id: 345,
+    id: 348,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 16,
@@ -2871,7 +2871,7 @@ const problems = [
     url: "https://leetcode.com/problems/sum-of-two-integers/?utm_source=chatgpt.com",
   },
   {
-    id: 346,
+    id: 349,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 17,
@@ -2879,7 +2879,7 @@ const problems = [
     url: "https://leetcode.com/problems/gray-code/?utm_source=chatgpt.com",
   },
   {
-    id: 347,
+    id: 350,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 18,
@@ -2887,7 +2887,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/?utm_source=chatgpt.com",
   },
   {
-    id: 348,
+    id: 351,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 19,
@@ -2895,7 +2895,7 @@ const problems = [
     url: "https://leetcode.com/problems/xor-queries-of-a-subarray/?utm_source=chatgpt.com",
   },
   {
-    id: 349,
+    id: 352,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 20,
@@ -2903,7 +2903,7 @@ const problems = [
     url: "https://leetcode.com/problems/decode-xored-array/?utm_source=chatgpt.com",
   },
   {
-    id: 350,
+    id: 353,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 21,
@@ -2911,7 +2911,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/?utm_source=chatgpt.com",
   },
   {
-    id: 351,
+    id: 354,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 22,
@@ -2919,7 +2919,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-xor-for-each-query/?utm_source=chatgpt.com",
   },
   {
-    id: 352,
+    id: 355,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 23,
@@ -2927,7 +2927,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/?utm_source=chatgpt.com",
   },
   {
-    id: 353,
+    id: 356,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 24,
@@ -2935,7 +2935,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-product-of-word-lengths/?utm_source=chatgpt.com",
   },
   {
-    id: 354,
+    id: 357,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 25,
@@ -2943,7 +2943,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/?utm_source=chatgpt.com",
   },
   {
-    id: 355,
+    id: 358,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 26,
@@ -2951,7 +2951,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/?utm_source=chatgpt.com",
   },
   {
-    id: 356,
+    id: 359,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 27,
@@ -2959,7 +2959,7 @@ const problems = [
     url: "https://leetcode.com/problems/neighboring-bitwise-xor/?utm_source=chatgpt.com",
   },
   {
-    id: 357,
+    id: 360,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 28,
@@ -2967,7 +2967,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/?utm_source=chatgpt.com",
   },
   {
-    id: 358,
+    id: 361,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 29,
@@ -2975,7 +2975,7 @@ const problems = [
     url: "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
   },
   {
-    id: 359,
+    id: 362,
     topic: "Bit Manipulation",
     difficulty: "Medium",
     number: 30,
@@ -2983,7 +2983,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-array-end/",
   },
   {
-    id: 360,
+    id: 363,
     topic: "Bit Manipulation",
     difficulty: "Hard",
     number: 31,
@@ -2991,7 +2991,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/?utm_source=chatgpt.com",
   },
   {
-    id: 361,
+    id: 364,
     topic: "Bit Manipulation",
     difficulty: "Hard",
     number: 32,
@@ -2999,7 +2999,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/?utm_source=chatgpt.com",
   },
   {
-    id: 362,
+    id: 365,
     topic: "Bit Manipulation",
     difficulty: "Hard",
     number: 33,
@@ -3007,7 +3007,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/?utm_source=chatgpt.com",
   },
   {
-    id: 363,
+    id: 366,
     topic: "Bit Manipulation",
     difficulty: "Hard",
     number: 34,
@@ -3017,7 +3017,7 @@ const problems = [
 
   // ==================== BINARY TREES ====================
   {
-    id: 417,
+    id: 367,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 1,
@@ -3025,7 +3025,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-preorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 418,
+    id: 368,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 2,
@@ -3033,7 +3033,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-inorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 419,
+    id: 369,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 3,
@@ -3041,7 +3041,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-postorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 420,
+    id: 370,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 4,
@@ -3049,7 +3049,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-depth-of-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 421,
+    id: 371,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 5,
@@ -3057,7 +3057,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-depth-of-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 422,
+    id: 372,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 6,
@@ -3065,7 +3065,7 @@ const problems = [
     url: "https://leetcode.com/problems/same-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 423,
+    id: 373,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 7,
@@ -3073,7 +3073,7 @@ const problems = [
     url: "https://leetcode.com/problems/invert-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 424,
+    id: 374,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 8,
@@ -3081,7 +3081,7 @@ const problems = [
     url: "https://leetcode.com/problems/symmetric-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 425,
+    id: 375,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 9,
@@ -3089,7 +3089,7 @@ const problems = [
     url: "https://leetcode.com/problems/balanced-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 426,
+    id: 376,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 10,
@@ -3097,7 +3097,7 @@ const problems = [
     url: "https://leetcode.com/problems/diameter-of-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 427,
+    id: 377,
     topic: "Binary Trees",
     difficulty: "Easy",
     number: 11,
@@ -3105,7 +3105,7 @@ const problems = [
     url: "https://leetcode.com/problems/subtree-of-another-tree/",
   },
   {
-    id: 428,
+    id: 378,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 12,
@@ -3113,7 +3113,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-level-order-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 429,
+    id: 379,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 13,
@@ -3121,7 +3121,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 430,
+    id: 380,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 14,
@@ -3129,7 +3129,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-right-side-view/?utm_source=chatgpt.com",
   },
   {
-    id: 431,
+    id: 381,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 15,
@@ -3137,7 +3137,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-bottom-left-tree-value/?utm_source=chatgpt.com",
   },
   {
-    id: 432,
+    id: 382,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 16,
@@ -3145,7 +3145,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-largest-value-in-each-tree-row/?utm_source=chatgpt.com",
   },
   {
-    id: 433,
+    id: 383,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 17,
@@ -3153,7 +3153,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-width-of-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 434,
+    id: 384,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 18,
@@ -3161,7 +3161,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 435,
+    id: 385,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 19,
@@ -3169,7 +3169,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 436,
+    id: 386,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 20,
@@ -3177,7 +3177,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 437,
+    id: 387,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 21,
@@ -3185,7 +3185,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 438,
+    id: 388,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 22,
@@ -3193,7 +3193,7 @@ const problems = [
     url: "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 439,
+    id: 389,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 23,
@@ -3201,7 +3201,7 @@ const problems = [
     url: "https://leetcode.com/problems/path-sum/?utm_source=chatgpt.com",
   },
   {
-    id: 440,
+    id: 390,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 24,
@@ -3209,7 +3209,7 @@ const problems = [
     url: "https://leetcode.com/problems/path-sum-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 441,
+    id: 391,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 25,
@@ -3217,7 +3217,7 @@ const problems = [
     url: "https://leetcode.com/problems/path-sum-iii/?utm_source=chatgpt.com",
   },
   {
-    id: 442,
+    id: 392,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 26,
@@ -3225,7 +3225,7 @@ const problems = [
     url: "https://leetcode.com/problems/sum-root-to-leaf-numbers/?utm_source=chatgpt.com",
   },
   {
-    id: 443,
+    id: 393,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 27,
@@ -3233,7 +3233,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-good-nodes-in-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 444,
+    id: 394,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 28,
@@ -3241,7 +3241,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/k-sum-paths/1?utm_source=chatgpt.com",
   },
   {
-    id: 445,
+    id: 395,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 29,
@@ -3249,7 +3249,7 @@ const problems = [
     url: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 446,
+    id: 396,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 30,
@@ -3257,7 +3257,7 @@ const problems = [
     url: "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 447,
+    id: 397,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 31,
@@ -3265,7 +3265,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 448,
+    id: 398,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 32,
@@ -3273,7 +3273,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 449,
+    id: 399,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 33,
@@ -3281,7 +3281,7 @@ const problems = [
     url: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 450,
+    id: 400,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 34,
@@ -3289,7 +3289,7 @@ const problems = [
     url: "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 451,
+    id: 401,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 35,
@@ -3297,7 +3297,7 @@ const problems = [
     url: "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/?utm_source=chatgpt.com",
   },
   {
-    id: 452,
+    id: 402,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 36,
@@ -3305,7 +3305,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1?utm_source=chatgpt.com",
   },
   {
-    id: 453,
+    id: 403,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 37,
@@ -3313,7 +3313,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 454,
+    id: 404,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 38,
@@ -3321,7 +3321,7 @@ const problems = [
     url: "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 455,
+    id: 405,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 39,
@@ -3329,7 +3329,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-preorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 456,
+    id: 406,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 40,
@@ -3337,7 +3337,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-inorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 457,
+    id: 407,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 41,
@@ -3345,7 +3345,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-postorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 458,
+    id: 408,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 42,
@@ -3353,7 +3353,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/tree-isomorphism-problem/",
   },
   {
-    id: 459,
+    id: 409,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 43,
@@ -3361,7 +3361,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/diagonal-traversal-of-binary-tree/",
   },
   {
-    id: 460,
+    id: 410,
     topic: "Binary Trees",
     difficulty: "Medium",
     number: 44,
@@ -3369,7 +3369,7 @@ const problems = [
     url: "https://leetcode.com/problems/construct-binary-tree-from-string/",
   },
   {
-    id: 461,
+    id: 411,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 45,
@@ -3377,7 +3377,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
   },
   {
-    id: 462,
+    id: 412,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 46,
@@ -3385,7 +3385,7 @@ const problems = [
     url: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
   },
   {
-    id: 463,
+    id: 413,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 47,
@@ -3393,7 +3393,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-complete-tree-nodes/",
   },
   {
-    id: 464,
+    id: 414,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 48,
@@ -3401,7 +3401,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-tree-cameras/",
   },
   {
-    id: 465,
+    id: 415,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 49,
@@ -3409,7 +3409,7 @@ const problems = [
     url: "https://leetcode.com/problems/house-robber/",
   },
   {
-    id: 466,
+    id: 416,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 50,
@@ -3417,7 +3417,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
   },
   {
-    id: 467,
+    id: 417,
     topic: "Binary Trees",
     difficulty: "Hard",
     number: 51,
@@ -3427,7 +3427,7 @@ const problems = [
 
   // ==================== BINARY SEARCH TREES ====================
   {
-    id: 468,
+    id: 418,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 1,
@@ -3435,7 +3435,7 @@ const problems = [
     url: "https://leetcode.com/problems/search-in-a-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 469,
+    id: 419,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 2,
@@ -3443,7 +3443,7 @@ const problems = [
     url: "https://leetcode.com/problems/range-sum-of-bst/?utm_source=chatgpt.com",
   },
   {
-    id: 470,
+    id: 420,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 3,
@@ -3451,7 +3451,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-absolute-difference-in-bst/?utm_source=chatgpt.com",
   },
   {
-    id: 471,
+    id: 421,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 4,
@@ -3459,7 +3459,7 @@ const problems = [
     url: "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 472,
+    id: 422,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 5,
@@ -3467,7 +3467,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1?utm_source=chatgpt.com",
   },
   {
-    id: 473,
+    id: 423,
     topic: "Binary Search Trees",
     difficulty: "Easy",
     number: 6,
@@ -3475,7 +3475,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 474,
+    id: 424,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 7,
@@ -3483,7 +3483,7 @@ const problems = [
     url: "https://leetcode.com/problems/insert-into-a-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 475,
+    id: 425,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 8,
@@ -3491,7 +3491,7 @@ const problems = [
     url: "https://leetcode.com/problems/validate-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 476,
+    id: 426,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 9,
@@ -3499,7 +3499,7 @@ const problems = [
     url: "https://leetcode.com/problems/delete-node-in-a-bst/?utm_source=chatgpt.com",
   },
   {
-    id: 477,
+    id: 427,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 10,
@@ -3507,7 +3507,7 @@ const problems = [
     url: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/?utm_source=chatgpt.com",
   },
   {
-    id: 478,
+    id: 428,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 11,
@@ -3515,7 +3515,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1?utm_source=chatgpt.com",
   },
   {
-    id: 479,
+    id: 429,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 12,
@@ -3523,7 +3523,7 @@ const problems = [
     url: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 480,
+    id: 430,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 13,
@@ -3531,7 +3531,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1?utm_source=chatgpt.com",
   },
   {
-    id: 481,
+    id: 431,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 14,
@@ -3539,7 +3539,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1?utm_source=chatgpt.com",
   },
   {
-    id: 482,
+    id: 432,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 15,
@@ -3547,7 +3547,7 @@ const problems = [
     url: "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/?utm_source=chatgpt.com",
   },
   {
-    id: 483,
+    id: 433,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 16,
@@ -3555,7 +3555,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1",
   },
   {
-    id: 484,
+    id: 434,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 17,
@@ -3563,7 +3563,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1?utm_source=chatgpt.com",
   },
   {
-    id: 485,
+    id: 435,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 18,
@@ -3571,7 +3571,7 @@ const problems = [
     url: "https://leetcode.com/problems/binary-search-tree-iterator/?utm_source=chatgpt.com",
   },
   {
-    id: 486,
+    id: 436,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 19,
@@ -3579,7 +3579,7 @@ const problems = [
     url: "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/?utm_source=chatgpt.com",
   },
   {
-    id: 487,
+    id: 437,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 20,
@@ -3587,7 +3587,7 @@ const problems = [
     url: "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 488,
+    id: 438,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 21,
@@ -3595,7 +3595,7 @@ const problems = [
     url: "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/?utm_source=chatgpt.com",
   },
   {
-    id: 489,
+    id: 439,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 22,
@@ -3603,7 +3603,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1?utm_source=chatgpt.com",
   },
   {
-    id: 490,
+    id: 440,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 23,
@@ -3611,7 +3611,7 @@ const problems = [
     url: "https://leetcode.com/problems/convert-bst-to-greater-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 491,
+    id: 441,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 24,
@@ -3619,7 +3619,7 @@ const problems = [
     url: "https://leetcode.com/problems/trim-a-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 492,
+    id: 442,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 25,
@@ -3627,7 +3627,7 @@ const problems = [
     url: "https://leetcode.com/problems/balance-a-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 493,
+    id: 443,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 26,
@@ -3635,7 +3635,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list/1",
   },
   {
-    id: 494,
+    id: 444,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 27,
@@ -3643,7 +3643,7 @@ const problems = [
     url: "https://leetcode.com/problems/recover-binary-search-tree/?utm_source=chatgpt.com",
   },
   {
-    id: 495,
+    id: 445,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 28,
@@ -3651,7 +3651,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1?utm_source=chatgpt.com",
   },
   {
-    id: 496,
+    id: 446,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 29,
@@ -3659,7 +3659,7 @@ const problems = [
     url: "https://leetcode.com/problems/unique-binary-search-trees-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 497,
+    id: 447,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 30,
@@ -3667,7 +3667,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/populate-inorder-successor-for-all-nodes/",
   },
   {
-    id: 498,
+    id: 448,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 31,
@@ -3675,7 +3675,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 499,
+    id: 449,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 32,
@@ -3683,7 +3683,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 500,
+    id: 450,
     topic: "Binary Search Trees",
     difficulty: "Medium",
     number: 33,
@@ -3691,7 +3691,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/minimum-swap-required-convert-binary-tree-binary-search-tree/",
   },
   {
-    id: 501,
+    id: 451,
     topic: "Binary Search Trees",
     difficulty: "Hard",
     number: 34,
@@ -3699,7 +3699,7 @@ const problems = [
     url: "https://leetcode.com/problems/serialize-and-deserialize-bst/",
   },
   {
-    id: 502,
+    id: 452,
     topic: "Binary Search Trees",
     difficulty: "Hard",
     number: 35,
@@ -3707,7 +3707,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
   },
   {
-    id: 503,
+    id: 453,
     topic: "Binary Search Trees",
     difficulty: "Hard",
     number: 36,
@@ -3715,7 +3715,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/largest-bst/1",
   },
   {
-    id: 504,
+    id: 454,
     topic: "Binary Search Trees",
     difficulty: "Hard",
     number: 37,
@@ -3725,7 +3725,7 @@ const problems = [
 
   // ==================== HEAPS ====================
   {
-    id: 505,
+    id: 455,
     topic: "Heaps",
     difficulty: "Easy",
     number: 1,
@@ -3733,7 +3733,7 @@ const problems = [
     url: "https://leetcode.com/problems/kth-largest-element-in-a-stream/?utm_source=chatgpt.com",
   },
   {
-    id: 506,
+    id: 456,
     topic: "Heaps",
     difficulty: "Easy",
     number: 2,
@@ -3741,7 +3741,7 @@ const problems = [
     url: "https://leetcode.com/problems/last-stone-weight/?utm_source=chatgpt.com",
   },
   {
-    id: 507,
+    id: 457,
     topic: "Heaps",
     difficulty: "Easy",
     number: 3,
@@ -3749,7 +3749,7 @@ const problems = [
     url: "https://leetcode.com/problems/relative-ranks/?utm_source=chatgpt.com",
   },
   {
-    id: 517,
+    id: 458,
     topic: "Heaps",
     difficulty: "Medium",
     number: 4,
@@ -3757,7 +3757,7 @@ const problems = [
     url: "https://leetcode.com/problems/kth-largest-element-in-an-array",
   },
   {
-    id: 518,
+    id: 459,
     topic: "Heaps",
     difficulty: "Medium",
     number: 5,
@@ -3765,7 +3765,7 @@ const problems = [
     url: "https://leetcode.com/problems/k-closest-points-to-origin/",
   },
   {
-    id: 519,
+    id: 460,
     topic: "Heaps",
     difficulty: "Medium",
     number: 6,
@@ -3773,7 +3773,7 @@ const problems = [
     url: "https://leetcode.com/problems/top-k-frequent-elements/?utm_source=chatgpt.com",
   },
   {
-    id: 520,
+    id: 461,
     topic: "Heaps",
     difficulty: "Medium",
     number: 7,
@@ -3781,7 +3781,7 @@ const problems = [
     url: "https://leetcode.com/problems/top-k-frequent-words/?utm_source=chatgpt.com",
   },
   {
-    id: 521,
+    id: 462,
     topic: "Heaps",
     difficulty: "Medium",
     number: 8,
@@ -3789,7 +3789,7 @@ const problems = [
     url: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/?utm_source=chatgpt.com",
   },
   {
-    id: 522,
+    id: 463,
     topic: "Heaps",
     difficulty: "Medium",
     number: 9,
@@ -3797,7 +3797,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 523,
+    id: 464,
     topic: "Heaps",
     difficulty: "Medium",
     number: 10,
@@ -3805,7 +3805,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/k-largest-elements4206/1?utm_source=chatgpt.com",
   },
   {
-    id: 524,
+    id: 465,
     topic: "Heaps",
     difficulty: "Medium",
     number: 11,
@@ -3813,7 +3813,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1?utm_source=chatgpt.com",
   },
   {
-    id: 525,
+    id: 466,
     topic: "Heaps",
     difficulty: "Medium",
     number: 12,
@@ -3821,7 +3821,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/heap-sort/1?utm_source=chatgpt.com",
   },
   {
-    id: 526,
+    id: 467,
     topic: "Heaps",
     difficulty: "Medium",
     number: 13,
@@ -3829,7 +3829,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1?utm_source=chatgpt.com",
   },
   {
-    id: 527,
+    id: 468,
     topic: "Heaps",
     difficulty: "Medium",
     number: 14,
@@ -3837,7 +3837,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1?utm_source=chatgpt.com",
   },
   {
-    id: 528,
+    id: 469,
     topic: "Heaps",
     difficulty: "Medium",
     number: 15,
@@ -3845,7 +3845,7 @@ const problems = [
     url: "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/?utm_source=chatgpt.com",
   },
   {
-    id: 529,
+    id: 470,
     topic: "Heaps",
     difficulty: "Medium",
     number: 16,
@@ -3853,7 +3853,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-median-from-data-stream/?utm_source=chatgpt.com",
   },
   {
-    id: 530,
+    id: 471,
     topic: "Heaps",
     difficulty: "Medium",
     number: 17,
@@ -3861,7 +3861,7 @@ const problems = [
     url: "https://leetcode.com/problems/sort-characters-by-frequency/?utm_source=chatgpt.com",
   },
   {
-    id: 531,
+    id: 472,
     topic: "Heaps",
     difficulty: "Medium",
     number: 18,
@@ -3869,7 +3869,7 @@ const problems = [
     url: "https://leetcode.com/problems/reorganize-string/?utm_source=chatgpt.com",
   },
   {
-    id: 532,
+    id: 473,
     topic: "Heaps",
     difficulty: "Medium",
     number: 19,
@@ -3877,7 +3877,7 @@ const problems = [
     url: "https://leetcode.com/problems/hand-of-straights/?utm_source=chatgpt.com",
   },
   {
-    id: 533,
+    id: 474,
     topic: "Heaps",
     difficulty: "Medium",
     number: 20,
@@ -3885,7 +3885,7 @@ const problems = [
     url: "https://leetcode.com/problems/task-scheduler/?utm_source=chatgpt.com",
   },
   {
-    id: 534,
+    id: 475,
     topic: "Heaps",
     difficulty: "Medium",
     number: 21,
@@ -3893,7 +3893,7 @@ const problems = [
     url: "https://leetcode.com/problems/furthest-building-you-can-reach/?utm_source=chatgpt.com",
   },
   {
-    id: 535,
+    id: 476,
     topic: "Heaps",
     difficulty: "Medium",
     number: 22,
@@ -3901,7 +3901,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-subsequence-score/?utm_source=chatgpt.com",
   },
   {
-    id: 536,
+    id: 477,
     topic: "Heaps",
     difficulty: "Medium",
     number: 23,
@@ -3909,7 +3909,7 @@ const problems = [
     url: "https://leetcode.com/problems/ipo/?utm_source=chatgpt.com",
   },
   {
-    id: 537,
+    id: 478,
     topic: "Heaps",
     difficulty: "Medium",
     number: 24,
@@ -3917,7 +3917,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 538,
+    id: 479,
     topic: "Heaps",
     difficulty: "Medium",
     number: 25,
@@ -3925,7 +3925,7 @@ const problems = [
     url: "https://leetcode.com/problems/single-threaded-cpu/?utm_source=chatgpt.com",
   },
   {
-    id: 539,
+    id: 480,
     topic: "Heaps",
     difficulty: "Medium",
     number: 26,
@@ -3933,7 +3933,7 @@ const problems = [
     url: "https://leetcode.com/problems/seat-reservation-manager/?utm_source=chatgpt.com",
   },
   {
-    id: 540,
+    id: 481,
     topic: "Heaps",
     difficulty: "Medium",
     number: 27,
@@ -3941,7 +3941,7 @@ const problems = [
     url: "https://leetcode.com/problems/process-tasks-using-servers/?utm_source=chatgpt.com",
   },
   {
-    id: 541,
+    id: 482,
     topic: "Heaps",
     difficulty: "Medium",
     number: 28,
@@ -3949,7 +3949,7 @@ const problems = [
     url: "https://leetcode.com/problems/design-twitter/?utm_source=chatgpt.com",
   },
   {
-    id: 556,
+    id: 483,
     topic: "Heaps",
     difficulty: "Medium",
     number: 29,
@@ -3957,7 +3957,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/rearrange-characters4649/1",
   },
   {
-    id: 560,
+    id: 484,
     topic: "Heaps",
     difficulty: "Medium",
     number: 30,
@@ -3965,7 +3965,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/k-maximum-sum-combinations-two-arrays/",
   },
   {
-    id: 562,
+    id: 485,
     topic: "Heaps",
     difficulty: "Medium",
     number: 31,
@@ -3973,7 +3973,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/tournament-tree-and-binary-heap/",
   },
   {
-    id: 563,
+    id: 486,
     topic: "Heaps",
     difficulty: "Medium",
     number: 32,
@@ -3981,7 +3981,7 @@ const problems = [
     url: "https://leetcode.com/problems/rearrange-string-k-distance-apart/",
   },
   {
-    id: 564,
+    id: 487,
     topic: "Heaps",
     difficulty: "Medium",
     number: 33,
@@ -3989,7 +3989,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
   },
   {
-    id: 565,
+    id: 488,
     topic: "Heaps",
     difficulty: "Hard",
     number: 34,
@@ -3997,7 +3997,7 @@ const problems = [
     url: "https://leetcode.com/problems/sliding-window-maximum/",
   },
   {
-    id: 566,
+    id: 489,
     topic: "Heaps",
     difficulty: "Hard",
     number: 35,
@@ -4005,7 +4005,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-performance-of-a-team/",
   },
   {
-    id: 567,
+    id: 490,
     topic: "Heaps",
     difficulty: "Hard",
     number: 36,
@@ -4013,7 +4013,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
   },
   {
-    id: 568,
+    id: 491,
     topic: "Heaps",
     difficulty: "Hard",
     number: 37,
@@ -4023,7 +4023,7 @@ const problems = [
 
   // ==================== GREEDY ====================
   {
-    id: 94,
+    id: 492,
     topic: "Greedy",
     difficulty: "Medium",
     number: 1,
@@ -4031,7 +4031,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1",
   },
   {
-    id: 201,
+    id: 493,
     topic: "Greedy",
     difficulty: "Easy",
     number: 2,
@@ -4039,7 +4039,7 @@ const problems = [
     url: "https://leetcode.com/problems/largest-odd-number-in-string",
   },
   {
-    id: 408,
+    id: 494,
     topic: "Greedy",
     difficulty: "Medium",
     number: 3,
@@ -4047,7 +4047,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/find-a-tour-that-visits-all-stations/",
   },
   {
-    id: 508,
+    id: 495,
     topic: "Greedy",
     difficulty: "Easy",
     number: 4,
@@ -4055,7 +4055,7 @@ const problems = [
     url: "https://leetcode.com/problems/assign-cookies/?utm_source=chatgpt.com",
   },
   {
-    id: 509,
+    id: 496,
     topic: "Greedy",
     difficulty: "Easy",
     number: 5,
@@ -4063,7 +4063,7 @@ const problems = [
     url: "https://leetcode.com/problems/lemonade-change/?utm_source=chatgpt.com",
   },
   {
-    id: 510,
+    id: 497,
     topic: "Greedy",
     difficulty: "Easy",
     number: 6,
@@ -4071,7 +4071,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 511,
+    id: 498,
     topic: "Greedy",
     difficulty: "Easy",
     number: 7,
@@ -4079,7 +4079,7 @@ const problems = [
     url: "https://leetcode.com/problems/can-place-flowers/?utm_source=chatgpt.com",
   },
   {
-    id: 512,
+    id: 499,
     topic: "Greedy",
     difficulty: "Easy",
     number: 8,
@@ -4087,7 +4087,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-units-on-a-truck/?utm_source=chatgpt.com",
   },
   {
-    id: 513,
+    id: 500,
     topic: "Greedy",
     difficulty: "Easy",
     number: 9,
@@ -4095,7 +4095,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 514,
+    id: 501,
     topic: "Greedy",
     difficulty: "Easy",
     number: 10,
@@ -4103,7 +4103,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/maximize-sum-after-k-negations/1",
   },
   {
-    id: 542,
+    id: 502,
     topic: "Greedy",
     difficulty: "Medium",
     number: 11,
@@ -4111,7 +4111,7 @@ const problems = [
     url: "https://leetcode.com/problems/jump-game/?utm_source=chatgpt.com",
   },
   {
-    id: 543,
+    id: 503,
     topic: "Greedy",
     difficulty: "Medium",
     number: 12,
@@ -4119,7 +4119,7 @@ const problems = [
     url: "https://leetcode.com/problems/jump-game-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 545,
+    id: 504,
     topic: "Greedy",
     difficulty: "Medium",
     number: 13,
@@ -4127,7 +4127,7 @@ const problems = [
     url: "https://leetcode.com/problems/non-overlapping-intervals/",
   },
   {
-    id: 546,
+    id: 505,
     topic: "Greedy",
     difficulty: "Medium",
     number: 14,
@@ -4135,7 +4135,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/?utm_source=chatgpt.com",
   },
   {
-    id: 547,
+    id: 506,
     topic: "Greedy",
     difficulty: "Medium",
     number: 15,
@@ -4143,7 +4143,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 548,
+    id: 507,
     topic: "Greedy",
     difficulty: "Medium",
     number: 16,
@@ -4151,7 +4151,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 549,
+    id: 508,
     topic: "Greedy",
     difficulty: "Medium",
     number: 17,
@@ -4159,7 +4159,7 @@ const problems = [
     url: "https://leetcode.com/problems/gas-station/?utm_source=chatgpt.com",
   },
   {
-    id: 550,
+    id: 509,
     topic: "Greedy",
     difficulty: "Medium",
     number: 18,
@@ -4167,7 +4167,7 @@ const problems = [
     url: "https://leetcode.com/problems/partition-labels/?utm_source=chatgpt.com",
   },
   {
-    id: 551,
+    id: 510,
     topic: "Greedy",
     difficulty: "Medium",
     number: 19,
@@ -4175,7 +4175,7 @@ const problems = [
     url: "https://leetcode.com/problems/wiggle-subsequence/?utm_source=chatgpt.com",
   },
   {
-    id: 552,
+    id: 511,
     topic: "Greedy",
     difficulty: "Medium",
     number: 20,
@@ -4183,7 +4183,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-length-of-pair-chain/?utm_source=chatgpt.com",
   },
   {
-    id: 554,
+    id: 512,
     topic: "Greedy",
     difficulty: "Medium",
     number: 21,
@@ -4191,7 +4191,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 554,
+    id: 513,
     topic: "Greedy",
     difficulty: "Medium",
     number: 22,
@@ -4199,7 +4199,7 @@ const problems = [
     url: "https://leetcode.com/problems/queue-reconstruction-by-height/?utm_source=chatgpt.com",
   },
   {
-    id: 555,
+    id: 514,
     topic: "Greedy",
     difficulty: "Medium",
     number: 23,
@@ -4207,7 +4207,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1?utm_source=chatgpt.com",
   },
   {
-    id: 557,
+    id: 515,
     topic: "Greedy",
     difficulty: "Medium",
     number: 24,
@@ -4215,7 +4215,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/maximum-trains-for-which-stoppage-can-be-provided/1?utm_source=chatgpt.com",
   },
   {
-    id: 559,
+    id: 516,
     topic: "Greedy",
     difficulty: "Medium",
     number: 25,
@@ -4223,7 +4223,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/choose-and-swap0530/1",
   },
   {
-    id: 569,
+    id: 517,
     topic: "Greedy",
     difficulty: "Hard",
     number: 26,
@@ -4231,7 +4231,7 @@ const problems = [
     url: "https://leetcode.com/problems/candy/",
   },
   {
-    id: 569,
+    id: 518,
     topic: "Greedy",
     difficulty: "Hard",
     number: 27,
@@ -4239,7 +4239,7 @@ const problems = [
     url: "https://leetcode.com/problems/candy/",
   },
   {
-    id: 570,
+    id: 519,
     topic: "Greedy",
     difficulty: "Hard",
     number: 28,
@@ -4247,7 +4247,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
   },
   {
-    id: 570,
+    id: 520,
     topic: "Greedy",
     difficulty: "Hard",
     number: 29,
@@ -4255,7 +4255,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
   },
   {
-    id: 571,
+    id: 521,
     topic: "Greedy",
     difficulty: "Hard",
     number: 30,
@@ -4263,7 +4263,7 @@ const problems = [
     url: "https://leetcode.com/problems/course-schedule-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 571,
+    id: 522,
     topic: "Greedy",
     difficulty: "Hard",
     number: 31,
@@ -4271,7 +4271,7 @@ const problems = [
     url: "https://leetcode.com/problems/course-schedule-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 572,
+    id: 523,
     topic: "Greedy",
     difficulty: "Medium",
     number: 32,
@@ -4279,7 +4279,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-cost-to-cut-a-board-into-squares/1",
   },
   {
-    id: 573,
+    id: 524,
     topic: "Greedy",
     difficulty: "Easy",
     number: 33,
@@ -4287,7 +4287,7 @@ const problems = [
     url: "https://leetcode.com/problems/distribute-candies-to-people/",
   },
   {
-    id: 574,
+    id: 525,
     topic: "Greedy",
     difficulty: "Easy",
     number: 34,
@@ -4295,7 +4295,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/greedy-algorithm-to-find-minimum-number-of-coins/",
   },
   {
-    id: 575,
+    id: 526,
     topic: "Greedy",
     difficulty: "Medium",
     number: 35,
@@ -4303,7 +4303,7 @@ const problems = [
     url: "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
   },
   {
-    id: 576,
+    id: 527,
     topic: "Greedy",
     difficulty: "Medium",
     number: 36,
@@ -4311,7 +4311,7 @@ const problems = [
     url: "https://leetcode.com/problems/valid-parenthesis-string/",
   },
   {
-    id: 577,
+    id: 528,
     topic: "Greedy",
     difficulty: "Medium",
     number: 37,
@@ -4319,7 +4319,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/",
   },
   {
-    id: 578,
+    id: 529,
     topic: "Greedy",
     difficulty: "Medium",
     number: 38,
@@ -4327,7 +4327,7 @@ const problems = [
     url: "https://leetcode.com/problems/advantage-shuffle/",
   },
   {
-    id: 579,
+    id: 530,
     topic: "Greedy",
     difficulty: "Hard",
     number: 39,
@@ -4335,7 +4335,7 @@ const problems = [
     url: "https://leetcode.com/problems/create-maximum-number/",
   },
   {
-    id: 580,
+    id: 531,
     topic: "Greedy",
     difficulty: "Hard",
     number: 40,
@@ -4343,7 +4343,7 @@ const problems = [
     url: "https://leetcode.com/problems/patching-array/",
   },
   {
-    id: 720,
+    id: 532,
     topic: "Greedy",
     difficulty: "Medium",
     number: 41,
@@ -4353,7 +4353,7 @@ const problems = [
 
   // ==================== GRAPHS ====================
   {
-    id: 581,
+    id: 533,
     topic: "Graphs",
     difficulty: "Easy",
     number: 1,
@@ -4361,7 +4361,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-if-path-exists-in-graph/?utm_source=chatgpt.com",
   },
   {
-    id: 582,
+    id: 534,
     topic: "Graphs",
     difficulty: "Easy",
     number: 2,
@@ -4369,7 +4369,7 @@ const problems = [
     url: "https://leetcode.com/problems/flood-fill/?utm_source=chatgpt.com",
   },
   {
-    id: 583,
+    id: 535,
     topic: "Graphs",
     difficulty: "Easy",
     number: 3,
@@ -4377,7 +4377,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-town-judge/?utm_source=chatgpt.com",
   },
   {
-    id: 584,
+    id: 536,
     topic: "Graphs",
     difficulty: "Easy",
     number: 4,
@@ -4385,7 +4385,7 @@ const problems = [
     url: "https://leetcode.com/problems/island-perimeter/?utm_source=chatgpt.com",
   },
   {
-    id: 585,
+    id: 537,
     topic: "Graphs",
     difficulty: "Easy",
     number: 5,
@@ -4393,7 +4393,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-center-of-star-graph/?utm_source=chatgpt.com",
   },
   {
-    id: 586,
+    id: 538,
     topic: "Graphs",
     difficulty: "Easy",
     number: 6,
@@ -4401,7 +4401,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=chatgpt.com",
   },
   {
-    id: 587,
+    id: 539,
     topic: "Graphs",
     difficulty: "Easy",
     number: 7,
@@ -4409,7 +4409,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=chatgpt.com",
   },
   {
-    id: 588,
+    id: 540,
     topic: "Graphs",
     difficulty: "Easy",
     number: 8,
@@ -4417,7 +4417,7 @@ const problems = [
     url: "https://leetcode.com/problems/graph-valid-tree/",
   },
   {
-    id: 589,
+    id: 541,
     topic: "Graphs",
     difficulty: "Medium",
     number: 9,
@@ -4425,7 +4425,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-islands/?utm_source=chatgpt.com",
   },
   {
-    id: 590,
+    id: 542,
     topic: "Graphs",
     difficulty: "Medium",
     number: 10,
@@ -4433,7 +4433,7 @@ const problems = [
     url: "https://leetcode.com/problems/max-area-of-island/?utm_source=chatgpt.com",
   },
   {
-    id: 591,
+    id: 543,
     topic: "Graphs",
     difficulty: "Medium",
     number: 11,
@@ -4441,7 +4441,7 @@ const problems = [
     url: "https://leetcode.com/problems/clone-graph/?utm_source=chatgpt.com",
   },
   {
-    id: 592,
+    id: 544,
     topic: "Graphs",
     difficulty: "Medium",
     number: 12,
@@ -4449,7 +4449,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-provinces/?utm_source=chatgpt.com",
   },
   {
-    id: 593,
+    id: 545,
     topic: "Graphs",
     difficulty: "Medium",
     number: 13,
@@ -4457,7 +4457,7 @@ const problems = [
     url: "https://leetcode.com/problems/surrounded-regions/?utm_source=chatgpt.com",
   },
   {
-    id: 594,
+    id: 546,
     topic: "Graphs",
     difficulty: "Medium",
     number: 14,
@@ -4465,7 +4465,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-enclaves/?utm_source=chatgpt.com",
   },
   {
-    id: 595,
+    id: 547,
     topic: "Graphs",
     difficulty: "Medium",
     number: 15,
@@ -4473,7 +4473,7 @@ const problems = [
     url: "https://leetcode.com/problems/pacific-atlantic-water-flow/?utm_source=chatgpt.com",
   },
   {
-    id: 596,
+    id: 548,
     topic: "Graphs",
     difficulty: "Medium",
     number: 16,
@@ -4481,7 +4481,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1?utm_source=chatgpt.com",
   },
   {
-    id: 597,
+    id: 549,
     topic: "Graphs",
     difficulty: "Medium",
     number: 17,
@@ -4489,7 +4489,7 @@ const problems = [
     url: "https://leetcode.com/problems/rotting-oranges/?utm_source=chatgpt.com",
   },
   {
-    id: 598,
+    id: 550,
     topic: "Graphs",
     difficulty: "Medium",
     number: 18,
@@ -4497,7 +4497,7 @@ const problems = [
     url: "https://leetcode.com/problems/01-matrix/?utm_source=chatgpt.com",
   },
   {
-    id: 599,
+    id: 551,
     topic: "Graphs",
     difficulty: "Medium",
     number: 19,
@@ -4505,7 +4505,7 @@ const problems = [
     url: "https://leetcode.com/problems/shortest-path-in-binary-matrix/?utm_source=chatgpt.com",
   },
   {
-    id: 600,
+    id: 552,
     topic: "Graphs",
     difficulty: "Medium",
     number: 20,
@@ -4513,7 +4513,7 @@ const problems = [
     url: "https://leetcode.com/problems/shortest-bridge/?utm_source=chatgpt.com",
   },
   {
-    id: 601,
+    id: 553,
     topic: "Graphs",
     difficulty: "Medium",
     number: 21,
@@ -4521,7 +4521,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/steps-by-knight5927/1",
   },
   {
-    id: 602,
+    id: 554,
     topic: "Graphs",
     difficulty: "Medium",
     number: 22,
@@ -4529,7 +4529,7 @@ const problems = [
     url: "https://leetcode.com/problems/redundant-connection/?utm_source=chatgpt.com",
   },
   {
-    id: 603,
+    id: 555,
     topic: "Graphs",
     difficulty: "Medium",
     number: 23,
@@ -4537,7 +4537,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=chatgpt.com",
   },
   {
-    id: 604,
+    id: 556,
     topic: "Graphs",
     difficulty: "Medium",
     number: 24,
@@ -4545,7 +4545,7 @@ const problems = [
     url: "https://leetcode.com/problems/course-schedule/?utm_source=chatgpt.com",
   },
   {
-    id: 605,
+    id: 557,
     topic: "Graphs",
     difficulty: "Medium",
     number: 25,
@@ -4553,7 +4553,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-eventual-safe-states/?utm_source=chatgpt.com",
   },
   {
-    id: 606,
+    id: 558,
     topic: "Graphs",
     difficulty: "Medium",
     number: 26,
@@ -4561,7 +4561,7 @@ const problems = [
     url: "https://leetcode.com/problems/course-schedule-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 607,
+    id: 559,
     topic: "Graphs",
     difficulty: "Medium",
     number: 27,
@@ -4569,7 +4569,7 @@ const problems = [
     url: "https://leetcode.com/problems/parallel-courses/?utm_source=chatgpt.com",
   },
   {
-    id: 608,
+    id: 560,
     topic: "Graphs",
     difficulty: "Medium",
     number: 28,
@@ -4577,7 +4577,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/alien-dictionary/1?utm_source=chatgpt.com",
   },
   {
-    id: 609,
+    id: 561,
     topic: "Graphs",
     difficulty: "Medium",
     number: 29,
@@ -4585,7 +4585,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/?utm_source=chatgpt.com",
   },
   {
-    id: 610,
+    id: 562,
     topic: "Graphs",
     difficulty: "Medium",
     number: 30,
@@ -4593,7 +4593,7 @@ const problems = [
     url: "https://leetcode.com/problems/is-graph-bipartite/?utm_source=chatgpt.com",
   },
   {
-    id: 611,
+    id: 563,
     topic: "Graphs",
     difficulty: "Medium",
     number: 31,
@@ -4601,7 +4601,7 @@ const problems = [
     url: "https://leetcode.com/problems/possible-bipartition/?utm_source=chatgpt.com",
   },
   {
-    id: 612,
+    id: 564,
     topic: "Graphs",
     difficulty: "Medium",
     number: 32,
@@ -4609,7 +4609,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/?utm_source=chatgpt.com",
   },
   {
-    id: 613,
+    id: 565,
     topic: "Graphs",
     difficulty: "Medium",
     number: 33,
@@ -4617,7 +4617,7 @@ const problems = [
     url: "https://leetcode.com/problems/accounts-merge/?utm_source=chatgpt.com",
   },
   {
-    id: 614,
+    id: 566,
     topic: "Graphs",
     difficulty: "Medium",
     number: 34,
@@ -4625,7 +4625,7 @@ const problems = [
     url: "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/?utm_source=chatgpt.com",
   },
   {
-    id: 615,
+    id: 567,
     topic: "Graphs",
     difficulty: "Medium",
     number: 35,
@@ -4633,7 +4633,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-islands-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 616,
+    id: 568,
     topic: "Graphs",
     difficulty: "Medium",
     number: 36,
@@ -4641,7 +4641,7 @@ const problems = [
     url: "https://leetcode.com/problems/making-a-large-island/?utm_source=chatgpt.com",
   },
   {
-    id: 617,
+    id: 569,
     topic: "Graphs",
     difficulty: "Medium",
     number: 37,
@@ -4649,7 +4649,7 @@ const problems = [
     url: "https://leetcode.com/problems/network-delay-time/?utm_source=chatgpt.com",
   },
   {
-    id: 618,
+    id: 570,
     topic: "Graphs",
     difficulty: "Medium",
     number: 38,
@@ -4657,7 +4657,7 @@ const problems = [
     url: "https://leetcode.com/problems/path-with-minimum-effort/?utm_source=chatgpt.com",
   },
   {
-    id: 619,
+    id: 571,
     topic: "Graphs",
     difficulty: "Medium",
     number: 39,
@@ -4665,7 +4665,7 @@ const problems = [
     url: "https://leetcode.com/problems/cheapest-flights-within-k-stops/?utm_source=chatgpt.com",
   },
   {
-    id: 620,
+    id: 572,
     topic: "Graphs",
     difficulty: "Medium",
     number: 40,
@@ -4673,7 +4673,7 @@ const problems = [
     url: "https://leetcode.com/problems/swim-in-rising-water/?utm_source=chatgpt.com",
   },
   {
-    id: 621,
+    id: 573,
     topic: "Graphs",
     difficulty: "Medium",
     number: 41,
@@ -4681,7 +4681,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/?utm_source=chatgpt.com",
   },
   {
-    id: 623,
+    id: 574,
     topic: "Graphs",
     difficulty: "Medium",
     number: 42,
@@ -4689,7 +4689,7 @@ const problems = [
     url: "https://leetcode.com/problems/min-cost-to-connect-all-points/?utm_source=chatgpt.com",
   },
   {
-    id: 624,
+    id: 575,
     topic: "Graphs",
     difficulty: "Medium",
     number: 43,
@@ -4697,7 +4697,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1?utm_source=chatgpt.com",
   },
   {
-    id: 625,
+    id: 576,
     topic: "Graphs",
     difficulty: "Medium",
     number: 44,
@@ -4705,7 +4705,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?utm_source=chatgpt.com",
   },
   {
-    id: 626,
+    id: 577,
     topic: "Graphs",
     difficulty: "Medium",
     number: 45,
@@ -4713,7 +4713,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1?utm_source=chatgpt.com",
   },
   {
-    id: 627,
+    id: 578,
     topic: "Graphs",
     difficulty: "Medium",
     number: 46,
@@ -4721,7 +4721,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1?utm_source=chatgpt.com",
   },
   {
-    id: 628,
+    id: 579,
     topic: "Graphs",
     difficulty: "Medium",
     number: 47,
@@ -4729,7 +4729,7 @@ const problems = [
     url: "https://leetcode.com/problems/evaluate-division/?utm_source=chatgpt.com",
   },
   {
-    id: 629,
+    id: 580,
     topic: "Graphs",
     difficulty: "Medium",
     number: 48,
@@ -4737,7 +4737,7 @@ const problems = [
     url: "https://leetcode.com/problems/detonate-the-maximum-bombs/?utm_source=chatgpt.com",
   },
   {
-    id: 630,
+    id: 581,
     topic: "Graphs",
     difficulty: "Medium",
     number: 49,
@@ -4745,7 +4745,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-height-trees/?utm_source=chatgpt.com",
   },
   {
-    id: 631,
+    id: 582,
     topic: "Graphs",
     difficulty: "Medium",
     number: 50,
@@ -4754,7 +4754,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
   },
   {
-    id: 632,
+    id: 583,
     topic: "Graphs",
     difficulty: "Medium",
     number: 51,
@@ -4762,7 +4762,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/",
   },
   {
-    id: 633,
+    id: 584,
     topic: "Graphs",
     difficulty: "Medium",
     number: 52,
@@ -4770,7 +4770,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/topological-sorting/",
   },
   {
-    id: 634,
+    id: 585,
     topic: "Graphs",
     difficulty: "Medium",
     number: 53,
@@ -4778,7 +4778,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/",
   },
   {
-    id: 635,
+    id: 586,
     topic: "Graphs",
     difficulty: "Medium",
     number: 54,
@@ -4786,7 +4786,7 @@ const problems = [
     url: "https://leetcode.com/problems/snakes-and-ladders/",
   },
   {
-    id: 636,
+    id: 587,
     topic: "Graphs",
     difficulty: "Medium",
     number: 55,
@@ -4794,7 +4794,7 @@ const problems = [
     url: "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
   },
   {
-    id: 637,
+    id: 588,
     topic: "Graphs",
     difficulty: "Medium",
     number: 56,
@@ -4802,7 +4802,7 @@ const problems = [
     url: "https://www.hackerearth.com/problem/algorithm/oliver-and-the-game-3/",
   },
   {
-    id: 638,
+    id: 589,
     topic: "Graphs",
     difficulty: "Medium",
     number: 57,
@@ -4810,7 +4810,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/find-longest-path-directed-acyclic-graph/",
   },
   {
-    id: 639,
+    id: 590,
     topic: "Graphs",
     difficulty: "Medium",
     number: 58,
@@ -4818,7 +4818,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/distance-nearest-cell-1-binary-matrix/",
   },
   {
-    id: 640,
+    id: 591,
     topic: "Graphs",
     difficulty: "Hard",
     number: 59,
@@ -4826,7 +4826,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-ladder/?utm_source=chatgpt.com",
   },
   {
-    id: 641,
+    id: 592,
     topic: "Graphs",
     difficulty: "Hard",
     number: 60,
@@ -4834,7 +4834,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-ladder-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 642,
+    id: 593,
     topic: "Graphs",
     difficulty: "Hard",
     number: 61,
@@ -4842,7 +4842,7 @@ const problems = [
     url: "https://leetcode.com/problems/critical-connections-in-a-network/?utm_source=chatgpt.com",
   },
   {
-    id: 643,
+    id: 594,
     topic: "Graphs",
     difficulty: "Hard",
     number: 62,
@@ -4850,7 +4850,7 @@ const problems = [
     url: "https://leetcode.com/problems/reconstruct-itinerary/?utm_source=chatgpt.com",
   },
   {
-    id: 644,
+    id: 595,
     topic: "Graphs",
     difficulty: "Hard",
     number: 63,
@@ -4858,7 +4858,7 @@ const problems = [
     url: "https://leetcode.com/problems/bus-routes/?utm_source=chatgpt.com",
   },
   {
-    id: 645,
+    id: 596,
     topic: "Graphs",
     difficulty: "Hard",
     number: 64,
@@ -4866,7 +4866,7 @@ const problems = [
     url: "https://leetcode.com/problems/shortest-path-visiting-all-nodes/?utm_source=chatgpt.com",
   },
   {
-    id: 646,
+    id: 597,
     topic: "Graphs",
     difficulty: "Hard",
     number: 65,
@@ -4874,7 +4874,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/?utm_source=chatgpt.com",
   },
   {
-    id: 647,
+    id: 598,
     topic: "Graphs",
     difficulty: "Hard",
     number: 66,
@@ -4882,7 +4882,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/travelling-salesman-problem-using-dynamic-programming/",
   },
   {
-    id: 648,
+    id: 599,
     topic: "Graphs",
     difficulty: "Hard",
     number: 67,
@@ -4890,7 +4890,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/two-clique-problem-check-graph-can-divided-two-cliques/",
   },
   {
-    id: 649,
+    id: 600,
     topic: "Graphs",
     difficulty: "Hard",
     number: 68,
@@ -4898,7 +4898,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/chinese-postman-route-inspection-set-1-introduction/",
   },
   {
-    id: 650,
+    id: 601,
     topic: "Graphs",
     difficulty: "Hard",
     number: 69,
@@ -4908,7 +4908,7 @@ const problems = [
 
   // ==================== DYNAMIC PROGRAMMING ====================
   {
-    id: 232,
+    id: 602,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 1,
@@ -4916,7 +4916,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/word-wrap1646/1",
   },
   {
-    id: 651,
+    id: 603,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 2,
@@ -4924,7 +4924,7 @@ const problems = [
     url: "https://leetcode.com/problems/fibonacci-number/",
   },
   {
-    id: 652,
+    id: 604,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 3,
@@ -4932,7 +4932,7 @@ const problems = [
     url: "https://leetcode.com/problems/climbing-stairs/",
   },
   {
-    id: 653,
+    id: 605,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 4,
@@ -4940,7 +4940,7 @@ const problems = [
     url: "https://leetcode.com/problems/min-cost-climbing-stairs/",
   },
   {
-    id: 654,
+    id: 606,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 5,
@@ -4948,7 +4948,7 @@ const problems = [
     url: "https://leetcode.com/problems/n-th-tribonacci-number/",
   },
   {
-    id: 655,
+    id: 607,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 6,
@@ -4956,7 +4956,7 @@ const problems = [
     url: "https://leetcode.com/problems/house-robber/",
   },
   {
-    id: 657,
+    id: 608,
     topic: "Dynamic Programming",
     difficulty: "Easy",
     number: 7,
@@ -4964,7 +4964,7 @@ const problems = [
     url: "https://leetcode.com/problems/divisor-game/",
   },
   {
-    id: 658,
+    id: 609,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 8,
@@ -4972,7 +4972,7 @@ const problems = [
     url: "https://leetcode.com/problems/house-robber/",
   },
   {
-    id: 659,
+    id: 610,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 9,
@@ -4980,7 +4980,7 @@ const problems = [
     url: "https://leetcode.com/problems/decode-ways/",
   },
   {
-    id: 660,
+    id: 611,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 10,
@@ -4988,7 +4988,7 @@ const problems = [
     url: "https://leetcode.com/problems/coin-change/",
   },
   {
-    id: 661,
+    id: 612,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 11,
@@ -4996,7 +4996,7 @@ const problems = [
     url: "https://leetcode.com/problems/coin-change-ii/",
   },
   {
-    id: 662,
+    id: 613,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 12,
@@ -5004,7 +5004,7 @@ const problems = [
     url: "https://leetcode.com/problems/perfect-squares/",
   },
   {
-    id: 663,
+    id: 614,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 13,
@@ -5012,7 +5012,7 @@ const problems = [
     url: "https://leetcode.com/problems/integer-break",
   },
   {
-    id: 664,
+    id: 615,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 14,
@@ -5020,7 +5020,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-break/",
   },
   {
-    id: 665,
+    id: 616,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 15,
@@ -5028,7 +5028,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum-iv/",
   },
   {
-    id: 666,
+    id: 617,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 16,
@@ -5036,7 +5036,7 @@ const problems = [
     url: "https://leetcode.com/problems/delete-and-earn/",
   },
   {
-    id: 667,
+    id: 618,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 17,
@@ -5044,7 +5044,7 @@ const problems = [
     url: "https://leetcode.com/problems/solving-questions-with-brainpower/",
   },
   {
-    id: 668,
+    id: 619,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 18,
@@ -5052,7 +5052,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
   },
   {
-    id: 669,
+    id: 620,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 19,
@@ -5060,7 +5060,7 @@ const problems = [
     url: "https://leetcode.com/problems/partition-equal-subset-sum/",
   },
   {
-    id: 670,
+    id: 621,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 20,
@@ -5068,7 +5068,7 @@ const problems = [
     url: "https://leetcode.com/problems/target-sum/",
   },
   {
-    id: 671,
+    id: 622,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 21,
@@ -5076,7 +5076,7 @@ const problems = [
     url: "https://leetcode.com/problems/ones-and-zeroes/",
   },
   {
-    id: 672,
+    id: 623,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 22,
@@ -5084,7 +5084,7 @@ const problems = [
     url: "https://leetcode.com/problems/last-stone-weight-ii/",
   },
   {
-    id: 673,
+    id: 624,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 23,
@@ -5092,7 +5092,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
   },
   {
-    id: 674,
+    id: 625,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 24,
@@ -5100,7 +5100,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
   },
   {
-    id: 675,
+    id: 626,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 25,
@@ -5108,7 +5108,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
   },
   {
-    id: 676,
+    id: 627,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 26,
@@ -5116,7 +5116,7 @@ const problems = [
     url: "https://leetcode.com/problems/unique-paths/",
   },
   {
-    id: 677,
+    id: 628,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 27,
@@ -5124,7 +5124,7 @@ const problems = [
     url: "https://leetcode.com/problems/unique-paths-ii/",
   },
   {
-    id: 678,
+    id: 629,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 28,
@@ -5132,7 +5132,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-path-sum/",
   },
   {
-    id: 679,
+    id: 630,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 29,
@@ -5140,7 +5140,7 @@ const problems = [
     url: "https://leetcode.com/problems/triangle/",
   },
   {
-    id: 680,
+    id: 631,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 30,
@@ -5148,7 +5148,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-falling-path-sum/",
   },
   {
-    id: 681,
+    id: 632,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 31,
@@ -5156,7 +5156,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-falling-path-sum-ii/",
   },
   {
-    id: 682,
+    id: 633,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 32,
@@ -5164,7 +5164,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximal-square/",
   },
   {
-    id: 683,
+    id: 634,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 33,
@@ -5172,7 +5172,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
   },
   {
-    id: 684,
+    id: 635,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 34,
@@ -5180,7 +5180,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/path-in-matrix3805/1",
   },
   {
-    id: 685,
+    id: 636,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 35,
@@ -5188,7 +5188,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1",
   },
   {
-    id: 686,
+    id: 637,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 36,
@@ -5196,7 +5196,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-common-subsequence/",
   },
   {
-    id: 687,
+    id: 638,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 37,
@@ -5204,7 +5204,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
   },
   {
-    id: 688,
+    id: 639,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 38,
@@ -5212,7 +5212,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1",
   },
   {
-    id: 689,
+    id: 640,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 39,
@@ -5220,7 +5220,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-palindromic-subsequence/",
   },
   {
-    id: 690,
+    id: 641,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 40,
@@ -5228,7 +5228,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
   },
   {
-    id: 691,
+    id: 642,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 41,
@@ -5236,7 +5236,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
   },
   {
-    id: 692,
+    id: 643,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 42,
@@ -5244,7 +5244,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1",
   },
   {
-    id: 693,
+    id: 644,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 43,
@@ -5252,7 +5252,7 @@ const problems = [
     url: "https://leetcode.com/problems/interleaving-string/",
   },
   {
-    id: 694,
+    id: 645,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 44,
@@ -5260,7 +5260,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindromic-substrings",
   },
   {
-    id: 695,
+    id: 646,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 45,
@@ -5268,7 +5268,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindrome-partitioning-ii/",
   },
   {
-    id: 696,
+    id: 647,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 46,
@@ -5276,7 +5276,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-different-palindromic-subsequences/",
   },
   {
-    id: 697,
+    id: 648,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 47,
@@ -5284,7 +5284,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-increasing-subsequence/",
   },
   {
-    id: 698,
+    id: 649,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 48,
@@ -5292,7 +5292,7 @@ const problems = [
     url: "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
   },
   {
-    id: 699,
+    id: 650,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 49,
@@ -5300,7 +5300,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-string-chain/",
   },
   {
-    id: 700,
+    id: 651,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 50,
@@ -5308,7 +5308,7 @@ const problems = [
     url: "https://leetcode.com/problems/russian-doll-envelopes/",
   },
   {
-    id: 701,
+    id: 652,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 51,
@@ -5316,7 +5316,7 @@ const problems = [
     url: "https://leetcode.com/problems/largest-divisible-subset/",
   },
   {
-    id: 702,
+    id: 653,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 52,
@@ -5324,7 +5324,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
   },
   {
-    id: 703,
+    id: 654,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 53,
@@ -5332,7 +5332,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
   },
   {
-    id: 704,
+    id: 655,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 54,
@@ -5340,7 +5340,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
   },
   {
-    id: 705,
+    id: 656,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 55,
@@ -5348,7 +5348,7 @@ const problems = [
     url: "https://leetcode.com/problems/partition-array-for-maximum-sum/",
   },
   {
-    id: 706,
+    id: 657,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 56,
@@ -5356,7 +5356,7 @@ const problems = [
     url: "https://leetcode.com/problems/predict-the-winner/",
   },
   {
-    id: 707,
+    id: 658,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 57,
@@ -5364,7 +5364,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
   },
   {
-    id: 708,
+    id: 659,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 58,
@@ -5372,7 +5372,7 @@ const problems = [
     url: "https://leetcode.com/problems/jump-game-vi/",
   },
   {
-    id: 709,
+    id: 660,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 59,
@@ -5380,7 +5380,7 @@ const problems = [
     url: "https://leetcode.com/problems/frog-jump/",
   },
   {
-    id: 710,
+    id: 661,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 60,
@@ -5388,7 +5388,7 @@ const problems = [
     url: "https://leetcode.com/problems/stone-game/",
   },
   {
-    id: 711,
+    id: 662,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 61,
@@ -5396,7 +5396,7 @@ const problems = [
     url: "https://leetcode.com/problems/stone-game-ii/",
   },
   {
-    id: 712,
+    id: 663,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 62,
@@ -5404,7 +5404,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
   },
   {
-    id: 713,
+    id: 664,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 63,
@@ -5412,7 +5412,7 @@ const problems = [
     url: "https://leetcode.com/problems/knight-dialer/",
   },
   {
-    id: 714,
+    id: 665,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 64,
@@ -5420,7 +5420,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-arithmetic-subsequence/",
   },
   {
-    id: 715,
+    id: 666,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 65,
@@ -5428,7 +5428,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
   },
   {
-    id: 716,
+    id: 667,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 66,
@@ -5436,7 +5436,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/count-number-ways-reach-given-score-game/",
   },
   {
-    id: 717,
+    id: 668,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 67,
@@ -5444,7 +5444,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/maximum-difference-zeros-ones-binary-string/",
   },
   {
-    id: 718,
+    id: 669,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 68,
@@ -5452,7 +5452,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/permutation-coefficient/",
   },
   {
-    id: 719,
+    id: 670,
     topic: "Dynamic Programming",
     difficulty: "Medium",
     number: 69,
@@ -5460,7 +5460,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/matrix-chain-multiplication-dp-8/",
   },
   {
-    id: 721,
+    id: 671,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 70,
@@ -5468,7 +5468,7 @@ const problems = [
     url: "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
   },
   {
-    id: 722,
+    id: 672,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 71,
@@ -5476,7 +5476,7 @@ const problems = [
     url: "https://leetcode.com/problems/dungeon-game/",
   },
   {
-    id: 723,
+    id: 673,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 72,
@@ -5484,7 +5484,7 @@ const problems = [
     url: "https://leetcode.com/problems/edit-distance/",
   },
   {
-    id: 724,
+    id: 674,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 73,
@@ -5492,7 +5492,7 @@ const problems = [
     url: "https://leetcode.com/problems/distinct-subsequences/",
   },
   {
-    id: 725,
+    id: 675,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 74,
@@ -5500,7 +5500,7 @@ const problems = [
     url: "https://leetcode.com/problems/wildcard-matching/",
   },
   {
-    id: 726,
+    id: 676,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 75,
@@ -5508,7 +5508,7 @@ const problems = [
     url: "https://leetcode.com/problems/burst-balloons/",
   },
   {
-    id: 727,
+    id: 677,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 76,
@@ -5516,7 +5516,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?utm_source=chatgpt.com",
   },
   {
-    id: 728,
+    id: 678,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 77,
@@ -5524,7 +5524,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
   },
   {
-    id: 729,
+    id: 679,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 78,
@@ -5532,7 +5532,7 @@ const problems = [
     url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
   },
   {
-    id: 730,
+    id: 680,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 79,
@@ -5540,7 +5540,7 @@ const problems = [
     url: "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
   },
   {
-    id: 731,
+    id: 681,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 80,
@@ -5548,7 +5548,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1",
   },
   {
-    id: 732,
+    id: 682,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 81,
@@ -5556,7 +5556,7 @@ const problems = [
     url: "https://leetcode.com/problems/regular-expression-matching/",
   },
   {
-    id: 733,
+    id: 683,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 82,
@@ -5564,7 +5564,7 @@ const problems = [
     url: "https://leetcode.com/problems/cherry-pickup/",
   },
   {
-    id: 734,
+    id: 684,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 83,
@@ -5572,7 +5572,7 @@ const problems = [
     url: "https://leetcode.com/problems/super-egg-drop/",
   },
   {
-    id: 735,
+    id: 685,
     topic: "Dynamic Programming",
     difficulty: "Hard",
     number: 84,
@@ -5582,7 +5582,7 @@ const problems = [
 
   // ==================== TRIE ====================
   {
-    id: 736,
+    id: 686,
     topic: "Trie",
     difficulty: "Easy",
     number: 1,
@@ -5590,7 +5590,7 @@ const problems = [
     url: "https://leetcode.com/problems/implement-trie-prefix-tree/",
   },
   {
-    id: 737,
+    id: 687,
     topic: "Trie",
     difficulty: "Easy",
     number: 2,
@@ -5598,7 +5598,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/trie-insert-and-search/",
   },
   {
-    id: 738,
+    id: 688,
     topic: "Trie",
     difficulty: "Easy",
     number: 3,
@@ -5606,7 +5606,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/trie-delete/?utm_source=chatgpt.com",
   },
   {
-    id: 739,
+    id: 689,
     topic: "Trie",
     difficulty: "Easy",
     number: 4,
@@ -5614,7 +5614,7 @@ const problems = [
     url: "https://www.naukri.com/code360/problems/complete-string_2687860",
   },
   {
-    id: 740,
+    id: 690,
     topic: "Trie",
     difficulty: "Easy",
     number: 5,
@@ -5622,7 +5622,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
   },
   {
-    id: 741,
+    id: 691,
     topic: "Trie",
     difficulty: "Easy",
     number: 6,
@@ -5630,7 +5630,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/count-distinct-substrings-string-using-suffix-trie/",
   },
   {
-    id: 742,
+    id: 692,
     topic: "Trie",
     difficulty: "Medium",
     number: 7,
@@ -5638,7 +5638,7 @@ const problems = [
     url: "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
   },
   {
-    id: 743,
+    id: 693,
     topic: "Trie",
     difficulty: "Medium",
     number: 8,
@@ -5646,7 +5646,7 @@ const problems = [
     url: "https://leetcode.com/problems/replace-words/",
   },
   {
-    id: 744,
+    id: 694,
     topic: "Trie",
     difficulty: "Medium",
     number: 9,
@@ -5654,7 +5654,7 @@ const problems = [
     url: "https://leetcode.com/problems/map-sum-pairs/",
   },
   {
-    id: 745,
+    id: 695,
     topic: "Trie",
     difficulty: "Medium",
     number: 10,
@@ -5662,7 +5662,7 @@ const problems = [
     url: "https://leetcode.com/problems/longest-word-in-dictionary/",
   },
   {
-    id: 746,
+    id: 696,
     topic: "Trie",
     difficulty: "Medium",
     number: 11,
@@ -5670,7 +5670,7 @@ const problems = [
     url: "https://leetcode.com/problems/implement-magic-dictionary/",
   },
   {
-    id: 747,
+    id: 697,
     topic: "Trie",
     difficulty: "Medium",
     number: 12,
@@ -5678,7 +5678,7 @@ const problems = [
     url: "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/",
   },
   {
-    id: 748,
+    id: 698,
     topic: "Trie",
     difficulty: "Medium",
     number: 13,
@@ -5686,7 +5686,7 @@ const problems = [
     url: "https://leetcode.com/problems/search-suggestions-system/",
   },
   {
-    id: 749,
+    id: 699,
     topic: "Trie",
     difficulty: "Medium",
     number: 14,
@@ -5694,7 +5694,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/phone-directory4628/1",
   },
   {
-    id: 750,
+    id: 700,
     topic: "Trie",
     difficulty: "Medium",
     number: 15,
@@ -5702,7 +5702,7 @@ const problems = [
     url: "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
   },
   {
-    id: 751,
+    id: 701,
     topic: "Trie",
     difficulty: "Medium",
     number: 16,
@@ -5710,7 +5710,7 @@ const problems = [
     url: "https://leetcode.com/problems/counting-words-with-a-given-prefix/",
   },
   {
-    id: 752,
+    id: 702,
     topic: "Trie",
     difficulty: "Medium",
     number: 17,
@@ -5718,7 +5718,7 @@ const problems = [
     url: "https://leetcode.com/problems/extra-characters-in-a-string/",
   },
   {
-    id: 753,
+    id: 703,
     topic: "Trie",
     difficulty: "Medium",
     number: 18,
@@ -5726,7 +5726,7 @@ const problems = [
     url: "https://leetcode.com/problems/concatenated-words/",
   },
   {
-    id: 754,
+    id: 704,
     topic: "Trie",
     difficulty: "Medium",
     number: 19,
@@ -5734,7 +5734,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-search-ii/",
   },
   {
-    id: 756,
+    id: 705,
     topic: "Trie",
     difficulty: "Medium",
     number: 20,
@@ -5742,7 +5742,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/print-unique-rows/",
   },
   {
-    id: 757,
+    id: 706,
     topic: "Trie",
     difficulty: "Medium",
     number: 21,
@@ -5750,7 +5750,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/?utm_source=chatgpt.com",
   },
   {
-    id: 758,
+    id: 707,
     topic: "Trie",
     difficulty: "Medium",
     number: 22,
@@ -5758,7 +5758,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/?utm_source=chatgpt.com",
   },
   {
-    id: 759,
+    id: 708,
     topic: "Trie",
     difficulty: "Medium",
     number: 23,
@@ -5766,7 +5766,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-pairs-with-xor-in-a-range/",
   },
   {
-    id: 760,
+    id: 709,
     topic: "Trie",
     difficulty: "Medium",
     number: 24,
@@ -5774,7 +5774,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-strong-pair-xor-ii/",
   },
   {
-    id: 761,
+    id: 710,
     topic: "Trie",
     difficulty: "Medium",
     number: 25,
@@ -5782,7 +5782,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/dsa/find-the-maximum-subarray-xor-in-a-given-array/",
   },
   {
-    id: 762,
+    id: 711,
     topic: "Trie",
     difficulty: "Medium",
     number: 26,
@@ -5790,7 +5790,7 @@ const problems = [
     url: "https://www.naukri.com/code360/problems/implement-trie_631356",
   },
   {
-    id: 763,
+    id: 712,
     topic: "Trie",
     difficulty: "Medium",
     number: 27,
@@ -5798,7 +5798,7 @@ const problems = [
     url: "https://leetcode.com/problems/design-search-autocomplete-system/",
   },
   {
-    id: 764,
+    id: 713,
     topic: "Trie",
     difficulty: "Hard",
     number: 28,
@@ -5806,7 +5806,7 @@ const problems = [
     url: "https://leetcode.com/problems/stream-of-characters/",
   },
   {
-    id: 765,
+    id: 714,
     topic: "Trie",
     difficulty: "Hard",
     number: 29,
@@ -5814,7 +5814,7 @@ const problems = [
     url: "https://leetcode.com/problems/prefix-and-suffix-search/",
   },
   {
-    id: 766,
+    id: 715,
     topic: "Trie",
     difficulty: "Hard",
     number: 30,
@@ -5822,7 +5822,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindrome-pairs/",
   },
   {
-    id: 767,
+    id: 716,
     topic: "Trie",
     difficulty: "Hard",
     number: 31,
@@ -5830,7 +5830,7 @@ const problems = [
     url: "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/",
   },
   {
-    id: 768,
+    id: 717,
     topic: "Trie",
     difficulty: "Hard",
     number: 32,
@@ -5838,7 +5838,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/",
   },
   {
-    id: 769,
+    id: 718,
     topic: "Trie",
     difficulty: "Hard",
     number: 33,
