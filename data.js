@@ -1305,13 +1305,14 @@ const problems = [
     title: "Arranging Coins",
     url: "https://leetcode.com/problems/arranging-coins/",
   },
+
   {
     id: 158,
     topic: "Binary Search",
     difficulty: "Medium",
     number: 10,
-    title: "Find First and Last Position of Element in Sorted Array",
-    url: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    title: "Search in an Almost Sorted Array",
+    url: "https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1",
   },
 
   {
@@ -1319,8 +1320,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 11,
-    title: "Single Element in a Sorted Array",
-    url: "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    title: "Find First and Last Position of Element in Sorted Array",
+    url: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
   },
 
   {
@@ -1328,8 +1329,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 12,
-    title: "Peak Index in a Mountain Array",
-    url: "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    title: "Single Element in a Sorted Array",
+    url: "https://leetcode.com/problems/single-element-in-a-sorted-array",
   },
 
   {
@@ -1337,8 +1338,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 13,
-    title: "Find Peak Element",
-    url: "https://leetcode.com/problems/find-peak-element",
+    title: "Peak Index in a Mountain Array",
+    url: "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
   },
 
   {
@@ -1346,8 +1347,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 14,
-    title: "Search in Rotated Sorted Array",
-    url: "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    title: "Find Peak Element",
+    url: "https://leetcode.com/problems/find-peak-element",
   },
 
   {
@@ -1355,8 +1356,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 15,
-    title: "Find Minimum in Rotated Sorted Array",
-    url: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    title: "Search in Rotated Sorted Array",
+    url: "https://leetcode.com/problems/search-in-rotated-sorted-array",
   },
 
   {
@@ -1364,8 +1365,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 16,
-    title: "Number of Times Array is Rotated",
-    url: "https://www.geeksforgeeks.org/problems/rotation4723/1",
+    title: "Find Minimum in Rotated Sorted Array",
+    url: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
   },
 
   {
@@ -1373,8 +1374,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 17,
-    title: "Search in Rotated Sorted Array II",
-    url: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    title: "Number of Times Array is Rotated",
+    url: "https://www.geeksforgeeks.org/problems/rotation4723/1",
   },
 
   {
@@ -1382,8 +1383,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 18,
-    title: "Search a 2D Matrix",
-    url: "https://leetcode.com/problems/search-a-2d-matrix",
+    title: "Search in Rotated Sorted Array II",
+    url: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
   },
 
   {
@@ -1391,8 +1392,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 19,
-    title: "Search a 2D Matrix II",
-    url: "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    title: "Search a 2D Matrix",
+    url: "https://leetcode.com/problems/search-a-2d-matrix",
   },
 
   {
@@ -1400,8 +1401,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 20,
-    title: "Kth Smallest Element in a Sorted Matrix",
-    url: "https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+    title: "Search a 2D Matrix II",
+    url: "https://leetcode.com/problems/search-a-2d-matrix-ii",
   },
 
   {
@@ -1409,8 +1410,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 21,
-    title: "Median in a Row-Wise Sorted Matrix",
-    url: "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+    title: "Kth Smallest Element in a Sorted Matrix",
+    url: "https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1",
   },
 
   {
@@ -1418,8 +1419,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 22,
-    title: "Kth Missing Positive Number",
-    url: "https://leetcode.com/problems/kth-missing-positive-number",
+    title: "Row with Max 1s",
+    url: "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
   },
 
   {
@@ -1427,8 +1428,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 23,
-    title: "Koko Eating Bananas",
-    url: "https://leetcode.com/problems/koko-eating-bananas",
+    title: "Median in a Row-Wise Sorted Matrix",
+    url: "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
   },
 
   {
@@ -1436,8 +1437,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 24,
-    title: "Minimum Number of Days to Make m Bouquets",
-    url: "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+    title: "Kth Missing Positive Number",
+    url: "https://leetcode.com/problems/kth-missing-positive-number",
   },
 
   {
@@ -1445,8 +1446,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 25,
-    title: "Find the Smallest Divisor Given a Threshold",
-    url: "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    title: "Koko Eating Bananas",
+    url: "https://leetcode.com/problems/koko-eating-bananas",
   },
 
   {
@@ -1454,8 +1455,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 26,
-    title: "Capacity to Ship Packages Within D Days",
-    url: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    title: "Cut Woods",
+    url: "https://www.geeksforgeeks.org/problems/cut-woods/1",
   },
 
   {
@@ -1463,8 +1464,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 27,
-    title: "Maximum Candies Allocated to K Children",
-    url: "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+    title: "Minimum Number of Days to Make m Bouquets",
+    url: "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
   },
 
   {
@@ -1472,8 +1473,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 28,
-    title: "Minimum Speed to Arrive on Time",
-    url: "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
+    title: "Find the Smallest Divisor Given a Threshold",
+    url: "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
   },
 
   {
@@ -1481,8 +1482,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 29,
-    title: "Aggressive Cows",
-    url: "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
+    title: "Capacity to Ship Packages Within D Days",
+    url: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
   },
 
   {
@@ -1490,8 +1491,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 30,
-    title: "Allocate Minimum Pages",
-    url: "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+    title: "Maximum Candies Allocated to K Children",
+    url: "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
   },
 
   {
@@ -1499,8 +1500,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 31,
-    title: "Painter's Partition Problem",
-    url: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+    title: "Minimum Speed to Arrive on Time",
+    url: "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
   },
 
   {
@@ -1508,8 +1509,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 32,
-    title: "Magnetic Force Between Two Balls",
-    url: "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+    title: "Aggressive Cows",
+    url: "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
   },
 
   {
@@ -1517,34 +1518,35 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 33,
-    title: "K-th Element of Two Sorted Arrays",
-    url: "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+    title: "Allocate Minimum Pages",
+    url: "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
   },
+
   {
     id: 182,
     topic: "Binary Search",
-    difficulty: "Hard",
+    difficulty: "Medium",
     number: 34,
-    title: "Find in Mountain Array",
-    url: "https://leetcode.com/problems/find-in-mountain-array/",
+    title: "Painter's Partition Problem",
+    url: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
   },
 
   {
     id: 183,
     topic: "Binary Search",
-    difficulty: "Hard",
+    difficulty: "Medium",
     number: 35,
-    title: "Split Array Largest Sum",
-    url: "https://leetcode.com/problems/split-array-largest-sum",
+    title: "Magnetic Force Between Two Balls",
+    url: "https://leetcode.com/problems/magnetic-force-between-two-balls/",
   },
 
   {
     id: 184,
     topic: "Binary Search",
-    difficulty: "Hard",
+    difficulty: "Medium",
     number: 36,
-    title: "Kth Smallest Pair Distance",
-    url: "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+    title: "K-th Element of Two Sorted Arrays",
+    url: "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
   },
 
   {
@@ -1552,8 +1554,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Hard",
     number: 37,
-    title: "Maximum Value at a Given Index in a Bounded Array",
-    url: "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
+    title: "Find in Mountain Array",
+    url: "https://leetcode.com/problems/find-in-mountain-array/",
   },
 
   {
@@ -1561,8 +1563,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Hard",
     number: 38,
-    title: "Minimize Max Distance to Gas Station",
-    url: "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
+    title: "Split Array Largest Sum",
+    url: "https://leetcode.com/problems/split-array-largest-sum",
   },
 
   {
@@ -1570,8 +1572,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Hard",
     number: 39,
-    title: "Find a Peak Element II",
-    url: "https://leetcode.com/problems/find-a-peak-element-ii",
+    title: "Kth Smallest Pair Distance",
+    url: "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
   },
 
   {
@@ -1579,10 +1581,36 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Hard",
     number: 40,
+    title: "Maximum Value at a Given Index in a Bounded Array",
+    url: "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
+  },
+
+  {
+    id: 189,
+    topic: "Binary Search",
+    difficulty: "Hard",
+    number: 41,
+    title: "Minimize Max Distance to Gas Station",
+    url: "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
+  },
+
+  {
+    id: 190,
+    topic: "Binary Search",
+    difficulty: "Hard",
+    number: 42,
+    title: "Find a Peak Element II",
+    url: "https://leetcode.com/problems/find-a-peak-element-ii",
+  },
+
+  {
+    id: 191,
+    topic: "Binary Search",
+    difficulty: "Hard",
+    number: 43,
     title: "Median of Two Sorted Arrays",
     url: "https://leetcode.com/problems/median-of-two-sorted-arrays",
   },
-
   // ==================== RECURSION & BACKTRACKING ====================
   {
     id: 189,
