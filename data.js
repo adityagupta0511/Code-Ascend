@@ -604,7 +604,7 @@ const problems = [
     topic: "Strings",
     difficulty: "Easy",
     number: 3,
-    title: "Maximum Occurring Character",
+    title: "Most Frequent Character",
     url: "https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1",
   },
   {
@@ -652,7 +652,7 @@ const problems = [
     topic: "Strings",
     difficulty: "Easy",
     number: 9,
-    title: "Find the Index of the First Occurrence",
+    title: "Find the Index of the First Occurrence in the String",
     url: "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
   },
   {
@@ -668,7 +668,7 @@ const problems = [
     topic: "Strings",
     difficulty: "Easy",
     number: 11,
-    title: "Second Most Repeated String in a Sequence",
+    title: "Second Most Frequent Word",
     url: "https://www.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1",
   },
   {
@@ -676,7 +676,7 @@ const problems = [
     topic: "Strings",
     difficulty: "Easy",
     number: 12,
-    title: "Consecutive Elements",
+    title: "Replace Consecutive Two Same with One",
     url: "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1",
   },
   {
