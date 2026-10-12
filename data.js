@@ -1224,6 +1224,7 @@ const problems = [
   },
 
   // ==================== BINARY SEARCH ====================
+
   {
     id: 149,
     topic: "Binary Search",
@@ -1290,19 +1291,19 @@ const problems = [
   {
     id: 156,
     topic: "Binary Search",
-    difficulty: "Easy",
+    difficulty: "Medium",
     number: 8,
-    title: "Valid Perfect Square",
-    url: "https://leetcode.com/problems/valid-perfect-square/",
+    title: "Search in an Almost Sorted Array",
+    url: "https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1",
   },
 
   {
     id: 157,
     topic: "Binary Search",
-    difficulty: "Easy",
+    difficulty: "Medium",
     number: 9,
-    title: "Arranging Coins",
-    url: "https://leetcode.com/problems/arranging-coins/",
+    title: "Find First and Last Position of Element in Sorted Array",
+    url: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
   },
 
   {
@@ -1310,8 +1311,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 10,
-    title: "Search in an Almost Sorted Array",
-    url: "https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1",
+    title: "Peak Index in a Mountain Array",
+    url: "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
   },
 
   {
@@ -1319,8 +1320,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 11,
-    title: "Find First and Last Position of Element in Sorted Array",
-    url: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    title: "Find Peak Element",
+    url: "https://leetcode.com/problems/find-peak-element",
   },
 
   {
@@ -1337,8 +1338,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 13,
-    title: "Peak Index in a Mountain Array",
-    url: "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    title: "Search in Rotated Sorted Array",
+    url: "https://leetcode.com/problems/search-in-rotated-sorted-array",
   },
 
   {
@@ -1346,8 +1347,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 14,
-    title: "Find Peak Element",
-    url: "https://leetcode.com/problems/find-peak-element",
+    title: "Find Minimum in Rotated Sorted Array",
+    url: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
   },
 
   {
@@ -1355,8 +1356,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 15,
-    title: "Search in Rotated Sorted Array",
-    url: "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    title: "Number of Times Array is Rotated",
+    url: "https://www.geeksforgeeks.org/problems/rotation4723/1",
   },
 
   {
@@ -1364,8 +1365,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 16,
-    title: "Find Minimum in Rotated Sorted Array",
-    url: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    title: "Search in Rotated Sorted Array II",
+    url: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
   },
 
   {
@@ -1373,8 +1374,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 17,
-    title: "Number of Times Array is Rotated",
-    url: "https://www.geeksforgeeks.org/problems/rotation4723/1",
+    title: "Search a 2D Matrix",
+    url: "https://leetcode.com/problems/search-a-2d-matrix",
   },
 
   {
@@ -1382,8 +1383,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 18,
-    title: "Search in Rotated Sorted Array II",
-    url: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    title: "Search a 2D Matrix II",
+    url: "https://leetcode.com/problems/search-a-2d-matrix-ii",
   },
 
   {
@@ -1391,8 +1392,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 19,
-    title: "Search a 2D Matrix",
-    url: "https://leetcode.com/problems/search-a-2d-matrix",
+    title: "Kth Smallest Element in a Sorted Matrix",
+    url: "https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1",
   },
 
   {
@@ -1400,8 +1401,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 20,
-    title: "Search a 2D Matrix II",
-    url: "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    title: "Row with Max 1s",
+    url: "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
   },
 
   {
@@ -1409,8 +1410,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 21,
-    title: "Kth Smallest Element in a Sorted Matrix",
-    url: "https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+    title: "Kth Missing Positive Number",
+    url: "https://leetcode.com/problems/kth-missing-positive-number",
   },
 
   {
@@ -1418,8 +1419,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 22,
-    title: "Row with Max 1s",
-    url: "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+    title: "Koko Eating Bananas",
+    url: "https://leetcode.com/problems/koko-eating-bananas",
   },
 
   {
@@ -1427,8 +1428,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 23,
-    title: "Median in a Row-Wise Sorted Matrix",
-    url: "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+    title: "Cut Woods",
+    url: "https://www.geeksforgeeks.org/problems/cut-woods/1",
   },
 
   {
@@ -1436,8 +1437,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 24,
-    title: "Kth Missing Positive Number",
-    url: "https://leetcode.com/problems/kth-missing-positive-number",
+    title: "Minimum Number of Days to Make m Bouquets",
+    url: "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
   },
 
   {
@@ -1445,8 +1446,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 25,
-    title: "Koko Eating Bananas",
-    url: "https://leetcode.com/problems/koko-eating-bananas",
+    title: "Capacity to Ship Packages Within D Days",
+    url: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
   },
 
   {
@@ -1454,8 +1455,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 26,
-    title: "Cut Woods",
-    url: "https://www.geeksforgeeks.org/problems/cut-woods/1",
+    title: "Aggressive Cows",
+    url: "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
   },
 
   {
@@ -1463,8 +1464,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 27,
-    title: "Minimum Number of Days to Make m Bouquets",
-    url: "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+    title: "Allocate Minimum Pages",
+    url: "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
   },
 
   {
@@ -1472,8 +1473,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 28,
-    title: "Find the Smallest Divisor Given a Threshold",
-    url: "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    title: "Painter's Partition Problem",
+    url: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
   },
 
   {
@@ -1481,8 +1482,8 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 29,
-    title: "Capacity to Ship Packages Within D Days",
-    url: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    title: "Magnetic Force Between Two Balls",
+    url: "https://leetcode.com/problems/magnetic-force-between-two-balls/",
   },
 
   {
@@ -1490,130 +1491,41 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 30,
-    title: "Maximum Candies Allocated to K Children",
-    url: "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+    title: "K-th Element of Two Sorted Arrays",
+    url: "https://www.geeksforgeeks.org/problems/k-th-element-in-two-sorted-array1317/1",
+
   },
 
   {
     id: 179,
     topic: "Binary Search",
-    difficulty: "Medium",
+    difficulty: "Hard",
     number: 31,
-    title: "Minimum Speed to Arrive on Time",
-    url: "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
-  },
-
-  {
-    id: 180,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 32,
-    title: "Aggressive Cows",
-    url: "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
-  },
-
-  {
-    id: 181,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 33,
-    title: "Allocate Minimum Pages",
-    url: "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
-  },
-
-  {
-    id: 182,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 34,
-    title: "Painter's Partition Problem",
-    url: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
-  },
-
-  {
-    id: 183,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 35,
-    title: "Magnetic Force Between Two Balls",
-    url: "https://leetcode.com/problems/magnetic-force-between-two-balls/",
-  },
-
-  {
-    id: 184,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 36,
-    title: "K-th Element of Two Sorted Arrays",
-    url: "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
-  },
-
-  {
-    id: 185,
-    topic: "Binary Search",
-    difficulty: "Hard",
-    number: 37,
-    title: "Find in Mountain Array",
-    url: "https://leetcode.com/problems/find-in-mountain-array/",
-  },
-
-  {
-    id: 186,
-    topic: "Binary Search",
-    difficulty: "Hard",
-    number: 38,
-    title: "Split Array Largest Sum",
-    url: "https://leetcode.com/problems/split-array-largest-sum",
-  },
-
-  {
-    id: 187,
-    topic: "Binary Search",
-    difficulty: "Hard",
-    number: 39,
-    title: "Kth Smallest Pair Distance",
-    url: "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
-  },
-
-  {
-    id: 188,
-    topic: "Binary Search",
-    difficulty: "Hard",
-    number: 40,
-    title: "Maximum Value at a Given Index in a Bounded Array",
-    url: "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
-  },
-
-  {
-    id: 189,
-    topic: "Binary Search",
-    difficulty: "Hard",
-    number: 41,
     title: "Minimize Max Distance to Gas Station",
     url: "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
   },
 
   {
-    id: 190,
+    id: 180,
     topic: "Binary Search",
     difficulty: "Hard",
-    number: 42,
-    title: "Find a Peak Element II",
-    url: "https://leetcode.com/problems/find-a-peak-element-ii",
+    number: 32,
+    title: "Split Array Largest Sum",
+    url: "https://leetcode.com/problems/split-array-largest-sum",
   },
 
   {
-    id: 191,
+    id: 181,
     topic: "Binary Search",
     difficulty: "Hard",
-    number: 43,
+    number: 33,
     title: "Median of Two Sorted Arrays",
     url: "https://leetcode.com/problems/median-of-two-sorted-arrays",
   },
-  
+    
   // ==================== RECURSION & BACKTRACKING ====================
   {
-    id: 192,
+    id: 182,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 1,
@@ -1621,7 +1533,7 @@ const problems = [
     url: "https://leetcode.com/problems/powx-n/",
   },
   {
-    id: 193,
+    id: 183,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 2,
@@ -1629,7 +1541,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/power-set4302/1",
   },
   {
-    id: 194,
+    id: 184,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 3,
@@ -1637,7 +1549,7 @@ const problems = [
     url: "https://leetcode.com/problems/subsets/",
   },
   {
-    id: 195,
+    id: 185,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 4,
@@ -1645,7 +1557,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-case-permutation/",
   },
   {
-    id: 196,
+    id: 186,
     topic: "Recursion & Backtracking",
     difficulty: "Easy",
     number: 5,
@@ -1653,7 +1565,7 @@ const problems = [
     url: "https://leetcode.com/problems/combinations/",
   },
   {
-    id: 197,
+    id: 187,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 6,
@@ -1661,7 +1573,7 @@ const problems = [
     url: "https://leetcode.com/problems/permutations/",
   },
   {
-    id: 198,
+    id: 188,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 7,
@@ -1669,7 +1581,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1",
   },
   {
-    id: 199,
+    id: 189,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 8,
@@ -1677,7 +1589,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum/",
   },
   {
-    id: 200,
+    id: 190,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 9,
@@ -1685,7 +1597,7 @@ const problems = [
     url: "https://leetcode.com/problems/subsets-ii/",
   },
   {
-    id: 201,
+    id: 191,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 10,
@@ -1693,7 +1605,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum-ii/",
   },
   {
-    id: 202,
+    id: 192,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 11,
@@ -1701,7 +1613,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
   },
   {
-    id: 203,
+    id: 193,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 12,
@@ -1709,7 +1621,7 @@ const problems = [
     url: "https://leetcode.com/problems/permutations-ii/",
   },
   {
-    id: 204,
+    id: 194,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 13,
@@ -1717,7 +1629,7 @@ const problems = [
     url: "https://leetcode.com/problems/letter-tile-possibilities/",
   },
   {
-    id: 205,
+    id: 195,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 14,
@@ -1725,7 +1637,7 @@ const problems = [
     url: "https://leetcode.com/problems/combination-sum-iii/",
   },
   {
-    id: 206,
+    id: 196,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 15,
@@ -1733,7 +1645,7 @@ const problems = [
     url: "https://leetcode.com/problems/generate-parentheses/",
   },
   {
-    id: 207,
+    id: 197,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 16,
@@ -1741,7 +1653,7 @@ const problems = [
     url: "https://leetcode.com/problems/palindrome-partitioning/",
   },
   {
-    id: 208,
+    id: 198,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 17,
@@ -1749,7 +1661,7 @@ const problems = [
     url: "https://leetcode.com/problems/restore-ip-addresses/",
   },
   {
-    id: 209,
+    id: 199,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 18,
@@ -1757,7 +1669,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
   },
   {
-    id: 210,
+    id: 200,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 19,
@@ -1765,7 +1677,7 @@ const problems = [
     url: "https://leetcode.com/problems/word-search/",
   },
   {
-    id: 211,
+    id: 201,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 20,
@@ -1773,7 +1685,7 @@ const problems = [
     url: "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
   },
   {
-    id: 212,
+    id: 202,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 21,
@@ -1781,7 +1693,7 @@ const problems = [
     url: "https://leetcode.com/problems/beautiful-arrangement/",
   },
   {
-    id: 213,
+    id: 203,
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 22,
@@ -1789,7 +1701,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
   },
   {
-    id: 214,
+    id: 204,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 23,
@@ -1797,7 +1709,7 @@ const problems = [
     url: "https://leetcode.com/problems/matchsticks-to-square/",
   },
   {
-    id: 215,
+    id: 205,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 24,
@@ -1805,7 +1717,7 @@ const problems = [
     url: "https://leetcode.com/problems/n-queens/",
   },
   {
-    id: 216,
+    id: 206,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 25,
@@ -1813,7 +1725,7 @@ const problems = [
     url: "https://leetcode.com/problems/n-queens-ii/",
   },
   {
-    id: 217,
+    id: 207,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 26,
@@ -1821,7 +1733,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
   },
   {
-    id: 218,
+    id: 208,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 27,
@@ -1829,7 +1741,7 @@ const problems = [
     url: "https://leetcode.com/problems/sudoku-solver/",
   },
   {
-    id: 219,
+    id: 209,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 28,
@@ -1837,7 +1749,7 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/word-break-part-23249/1",
   },
   {
-    id: 220,
+    id: 210,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 29,
@@ -1845,7 +1757,7 @@ const problems = [
     url: "https://leetcode.com/problems/remove-invalid-parentheses/",
   },
   {
-    id: 221,
+    id: 211,
     topic: "Recursion & Backtracking",
     difficulty: "Hard",
     number: 30,
