@@ -154,14 +154,6 @@ const problems = [
     url: "https://leetcode.com/problems/unique-binary-search-trees/",
   },
   {
-    id: 20,
-    topic: "Mathematics",
-    difficulty: "Hard",
-    number: 20,
-    title: "Permutation Sequence",
-    url: "https://leetcode.com/problems/permutation-sequence/",
-  },
-  {
     id: 21,
     topic: "Mathematics",
     difficulty: "Hard",
@@ -1960,9 +1952,8 @@ const problems = [
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 19,
-    title:
-      "Print All Possible Paths from Top Left to Bottom Right of an m x n Matrix",
-    url: "https://www.geeksforgeeks.org/print-all-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+    title: "Grid Paths from Top to Bottom Corner",
+    url: "https://www.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1",
   },
   {
     id: 244,
@@ -2001,7 +1992,7 @@ const problems = [
     topic: "Recursion & Backtracking",
     difficulty: "Medium",
     number: 24,
-    title: "Find the K-th Permutation Sequence",
+    title: "Permutation Sequence",
     url: "https://leetcode.com/problems/permutation-sequence/",
   },
   {
