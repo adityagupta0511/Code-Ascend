@@ -22,7 +22,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Easy",
     number: 3,
-    title: "GCD and HCF - Euclidean Algorithm",
+    title: "GCD of Two",
     url: "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
   },
   {
@@ -30,7 +30,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Easy",
     number: 4,
-    title: "Prime Number - Primality Test",
+    title: "Prime Number",
     url: "https://www.geeksforgeeks.org/problems/prime-number2314/1",
   },
   {
@@ -46,7 +46,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Easy",
     number: 6,
-    title: "Prime Factorization",
+    title: "All Prime Factors in Sorted Order",
     url: "https://www.geeksforgeeks.org/problems/prime-factorization/1",
   },
   {
@@ -86,7 +86,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Medium",
     number: 11,
-    title: "Square Root of an Integer",
+    title: "Square Root",
     url: "https://www.geeksforgeeks.org/problems/square-root/1",
   },
   {
@@ -126,7 +126,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Medium",
     number: 16,
-    title: "Power(x, n) - Fast Power",
+    title: "Power(x, n)",
     url: "https://leetcode.com/problems/powx-n/",
   },
   {
@@ -158,7 +158,7 @@ const problems = [
     topic: "Mathematics",
     difficulty: "Hard",
     number: 20,
-    title: "Permutation Sequence - Factorial Number System",
+    title: "Permutation Sequence",
     url: "https://leetcode.com/problems/permutation-sequence/",
   },
   {
