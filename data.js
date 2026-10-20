@@ -373,14 +373,6 @@ const problems = [
     url: "https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1",
   },
   {
-    id: 47,
-    topic: "Array",
-    difficulty: "Medium",
-    number: 26,
-    title: "Median of Two Sorted Arrays",
-    url: "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-  },
-  {
     id: 48,
     topic: "Array",
     difficulty: "Medium",
@@ -1464,7 +1456,7 @@ const problems = [
     topic: "Sorting",
     difficulty: "Medium",
     number: 8,
-    title: "Inversion of Array",
+    title: "Count Inversions",
     url: "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
   },
   {
@@ -1525,7 +1517,7 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Easy",
     number: 3,
-    title: "Lower Bound",
+    title: "Implement Lower Bound",
     url: "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
   },
 
@@ -1534,7 +1526,7 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Easy",
     number: 4,
-    title: "Upper Bound",
+    title: "Implement Upper Bound",
     url: "https://www.geeksforgeeks.org/problems/implement-upper-bound/1",
   },
 
@@ -1642,7 +1634,7 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 16,
-    title: "Number of Times Array Is Rotated",
+    title: "Find Rotation Count",
     url: "https://www.geeksforgeeks.org/problems/rotation/1",
   },
 
@@ -1687,7 +1679,7 @@ const problems = [
     topic: "Binary Search",
     difficulty: "Medium",
     number: 21,
-    title: "Row with Maximum 1s",
+    title: "Row with Max 1s in Rowwise Sorted",
     url: "https://www.geeksforgeeks.org/problems/row-with-max-1s/1",
   },
 
@@ -1716,15 +1708,6 @@ const problems = [
     number: 24,
     title: "Koko Eating Bananas",
     url: "https://leetcode.com/problems/koko-eating-bananas/",
-  },
-
-  {
-    id: 213,
-    topic: "Binary Search",
-    difficulty: "Medium",
-    number: 25,
-    title: "Cut Woods",
-    url: "https://www.geeksforgeeks.org/dsa/maximum-length-possible-by-cutting-n-given-woods-into-at-least-k-pieces/",
   },
 
   {
