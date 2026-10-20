@@ -2335,14 +2335,6 @@ const problems = [
     url: "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
   },
   {
-    id: 291,
-    topic: "Linked List",
-    difficulty: "Hard",
-    number: 37,
-    title: "Reverse Doubly Linked List in Groups",
-    url: "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
-  },
-  {
     id: 292,
     topic: "Linked List",
     difficulty: "Hard",
