@@ -185,7 +185,7 @@ const problems = [
     topic: "Array",
     difficulty: "Easy",
     number: 2,
-    title: "Check if the Array Is Sorted",
+    title: "Check if the Array Is Sorted an Rotated",
     url: "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
   },
   {
@@ -193,7 +193,7 @@ const problems = [
     topic: "Array",
     difficulty: "Easy",
     number: 3,
-    title: "Find Minimum and Maximum Element",
+    title: "Min and Max in Array",
     url: "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
   },
   {
@@ -217,8 +217,8 @@ const problems = [
     topic: "Array",
     difficulty: "Easy",
     number: 6,
-    title: "Find Missing Number",
-    url: "https://www.geeksforgeeks.org/dsa/find-the-missing-number/",
+    title: "Missing Number in Array",
+    url: "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
   },
   {
     id: 28,
@@ -242,7 +242,7 @@ const problems = [
     difficulty: "Easy",
     number: 9,
     title: "Best Time to Buy and Sell Stock",
-    url: "https://www.geeksforgeeks.org/problems/buy-stock-2/1",
+    url: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
   },
   {
     id: 31,
@@ -266,7 +266,7 @@ const problems = [
     difficulty: "Easy",
     number: 12,
     title: "Sort an Array of 0s, 1s and 2s",
-    url: "https://leetcode.com/problems/sort-colors/",
+    url: "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
   },
   {
     id: 34,
@@ -289,7 +289,7 @@ const problems = [
     topic: "Array",
     difficulty: "Easy",
     number: 15,
-    title: "Sum of All Subarrays of Size K",
+    title: "Max Sum Subarray of Size K",
     url: "https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1",
   },
   {
@@ -298,7 +298,7 @@ const problems = [
     difficulty: "Medium",
     number: 16,
     title: "Rotate Array",
-    url: "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
+    url: "https://leetcode.com/problems/rotate-array/description/",
   },
   {
     id: 38,
@@ -314,15 +314,15 @@ const problems = [
     difficulty: "Medium",
     number: 18,
     title: "Maximum Product Subarray",
-    url: "https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+    url: "https://leetcode.com/problems/maximum-product-subarray/description/",
   },
   {
     id: 40,
     topic: "Array",
     difficulty: "Medium",
     number: 19,
-    title: "Maximum Subarray Sum (Kadane's Algorithm)",
-    url: "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+    title: "Maximum Subarray Sum",
+    url: "https://leetcode.com/problems/maximum-subarray/description/",
   },
   {
     id: 41,
@@ -338,7 +338,7 @@ const problems = [
     difficulty: "Medium",
     number: 21,
     title: "Merge Two Sorted Arrays",
-    url: "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
+    url: "https://leetcode.com/problems/merge-sorted-array/description/",
   },
   {
     id: 43,
@@ -354,15 +354,7 @@ const problems = [
     difficulty: "Medium",
     number: 23,
     title: "Next Permutation",
-    url: "https://www.geeksforgeeks.org/problems/next-permutation5226/1",
-  },
-  {
-    id: 45,
-    topic: "Array",
-    difficulty: "Medium",
-    number: 24,
-    title: "Inversion of Array",
-    url: "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+    url: "https://leetcode.com/problems/next-permutation/description/",
   },
   {
     id: 46,
@@ -378,7 +370,7 @@ const problems = [
     difficulty: "Medium",
     number: 26,
     title: "Minimum Swaps to Bring Elements Less Than or Equal to K Together",
-    url: "https://www.geeksforgeeks.org/problems/minimum-swaps-and-k-together/1",
+    url: "https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1",
   },
   {
     id: 48,
@@ -410,7 +402,7 @@ const problems = [
     difficulty: "Hard",
     number: 30,
     title: "Trapping Rain Water",
-    url: "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1",
+    url: "https://leetcode.com/problems/trapping-rain-water/description/",
   },
   {
     id: 52,
